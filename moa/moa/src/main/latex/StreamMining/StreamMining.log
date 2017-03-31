@@ -1,0 +1,3096 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.13)  13 NOV 2016 16:53
+entering extended mode
+**./StreamMining.tex
+(StreamMining.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk12.clo"
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (phdthesis.sty
+Package: phdthesis 2007/09/11 v1.0 PhD Thesis Style
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\fancybox\fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box28
+\shadowsize=\dimen112
+\@Sbox=\box29
+\do@VerbBox=\toks19
+\the@fancyput=\toks20
+\this@fancyput=\toks21
+\EndVerbatimTokens=\toks22
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+) (psboxit.sty
+\gray@box=\box30
+\gray@space=\dimen113
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.s
+ty
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-
+common.tex
+\pgfutil@everybye=\toks23
+\pgfutil@tempdima=\dimen114
+\pgfutil@tempdimb=\dimen115
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-
+common-lists.tex))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-
+latex.def
+\pgfutil@abb=\box31
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.c
+ode.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.s
+ty ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen116
+\Gin@req@width=\dimen117
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.s
+ty
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys
+.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.
+code.tex
+\pgfkeys@pathtoks=\toks25
+\pgfkeys@temptoks=\toks26
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysf
+iltered.code.tex
+\pgfkeys@tmptoks=\toks27
+))
+\pgf@x=\dimen118
+\pgf@y=\dimen119
+\pgf@xa=\dimen120
+\pgf@ya=\dimen121
+\pgf@xb=\dimen122
+\pgf@yb=\dimen123
+\pgf@xc=\dimen124
+\pgf@yc=\dimen125
+\w@pgf@writea=\write4
+\r@pgf@reada=\read2
+\c@pgf@counta=\count101
+\c@pgf@countb=\count102
+\c@pgf@countc=\count103
+\c@pgf@countd=\count104
+\t@pgf@toka=\toks28
+\t@pgf@tokb=\toks29
+\t@pgf@tokc=\toks30
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cf
+g
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys
+-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys
+-common-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys
+softpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count105
+\pgfsyssoftpath@bigbuffer@items=\count106
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys
+protocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.
+tex
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.c
+ode.tex
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.c
+ode.tex)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser
+.code.tex
+\pgfmath@dimen=\dimen126
+\pgfmath@count=\count107
+\pgfmath@box=\box32
+\pgfmath@toks=\toks31
+\pgfmath@stack@operand=\toks32
+\pgfmath@stack@operation=\toks33
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.code.tex
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.basic.code.tex)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.trigonometric.code.tex)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.random.code.tex)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.comparison.code.tex)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.base.code.tex)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.round.code.tex)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.misc.code.tex)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.integerarithmetics.code.tex)))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.
+code.tex
+\c@pgfmathroundto@lastzeros=\count108
+))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+points.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen127
+\pgf@picmaxx=\dimen128
+\pgf@picminy=\dimen129
+\pgf@picmaxy=\dimen130
+\pgf@pathminx=\dimen131
+\pgf@pathmaxx=\dimen132
+\pgf@pathminy=\dimen133
+\pgf@pathmaxy=\dimen134
+\pgf@xx=\dimen135
+\pgf@xy=\dimen136
+\pgf@yx=\dimen137
+\pgf@yy=\dimen138
+\pgf@zx=\dimen139
+\pgf@zy=\dimen140
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+pathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen141
+\pgf@path@lasty=\dimen142
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+pathusage.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen143
+\pgf@shorten@start@additional=\dimen144
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+scopes.code.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box33
+\pgf@hbox=\box34
+\pgf@layerbox@main=\box35
+\pgf@picture@serial@count=\count109
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+graphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen145
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+transformations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen146
+\pgf@pt@y=\dimen147
+\pgf@pt@temp=\dimen148
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+quick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+objects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+pathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+arrows.code.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen149
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+shade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen150
+\pgf@sys@shading@range@num=\count110
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+image.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+external.code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box36
+))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+layers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+transparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+patterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodules
+hapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box37
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulep
+lot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcom
+p-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen151
+\pgf@nodesepend=\dimen152
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcom
+p-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.st
+y
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.
+code.tex))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.
+tex))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.c
+ode.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.
+tex)
+\pgffor@iter=\dimen153
+\pgffor@skip=\dimen154
+\pgffor@stack=\toks34
+\pgffor@toks=\toks35
+))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz
+\tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibra
+ryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count111
+\pgfplotmarksize=\dimen155
+)
+\tikz@lastx=\dimen156
+\tikz@lasty=\dimen157
+\tikz@lastxsaved=\dimen158
+\tikz@lastysaved=\dimen159
+\tikzleveldistance=\dimen160
+\tikzsiblingdistance=\dimen161
+\tikz@figbox=\box38
+\tikz@figbox@bg=\box39
+\tikz@tempbox=\box40
+\tikz@tempbox@bg=\box41
+\tikztreelevel=\count112
+\tikznumberofchildren=\count113
+\tikznumberofcurrentchild=\count114
+\tikz@fig@count=\count115
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulem
+atrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count116
+\pgfmatrixcurrentcolumn=\count117
+\pgf@matrix@numberofcolumns=\count118
+)
+\tikz@expandcount=\count119
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz
+\libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\quotchap\quotchap.sty
+Package: quotchap 2012/10/20 v1.1 Decorative Chapter Headings with Quotes
+\@quotebox=\box42
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box43
+\beforetitleunit=\skip55
+\aftertitleunit=\skip56
+\ttl@plus=\dimen162
+\ttl@minus=\dimen163
+\ttl@toksa=\toks36
+\titlewidth=\dimen164
+\titlewidthlast=\dimen165
+\titlewidthfirst=\dimen166
+))
+(titlepage_moa.sty
+Package: titlepage_moa 2009/08/31
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip57
+\thm@postskip=\skip58
+\thm@headsep=\skip59
+\dth@everypar=\toks42
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\mathdesign\mathdesign.st
+y
+Package: mathdesign 2013/08/29 v2.31 Math Design Project
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\mathdesign\mdbch\mdbch.c
+fg)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\mathdesign\mdbch\mdbch.s
+ty
+Package: mdbch 2013/08/29 v2.31 bitstream bitstream charter + mdbch (Math Desig
+n Project)
+ (C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\mathdesign\mdfont.def
+File: mdfont.def 2013/08/29 v2.31 (Math Design Project)
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\mathdesign\mdsffont.def
+File: mdsffont.def 2013/08/29 v2.31 (Math Design Project)
+) (C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\mathdesign\mdttfont.de
+f
+File: mdttfont.def 2013/08/29 v2.31 (Math Design Project)
+)
+\symmdcal=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mdcal' in version `bold'
+(Font)                  OMS/mdbch/m/n --> OMS/mdbch/b/n on input line 97.
+\symmdscr=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `mdscr' in version `bold'
+(Font)                  OMS/mdbch/m/n --> OMS/mdbch/b/n on input line 103.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/xmdeuf/m/n --> U/xmdeuf/b/n on input line 110.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/mdbch/m/n on input line 121.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/mdbch/m/it on input line 122.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/mdbch/m/n on input line 123.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/mdbch/m/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/mdbch/b/n on input line 126.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/mdbch/b/it on input line 127.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/mdbch/b/n on input line 128.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/mdbch/b/n on input line 129.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/mdbch/m/n --> OT1/mdbch/m/n on input line 131.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/mdbch/b/n on input line 132.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/mdbch/m/it on input line 133.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 134.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 135.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/mdbch/b/n --> OT1/mdbch/b/n on input line 137.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/mdbch/b/n on input line 138.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/mdbch/b/it on input line 139.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/b/n on input line 140.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 141.
+\symlettersupright=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lettersupright' in version `bold'
+(Font)                  OML/mdbch/m/n --> OML/mdbch/b/n on input line 144.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 145.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `normal'
+(Font)                  OMS/mdbch/m/n --> OMS/mdbch/m/n on input line 167.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks43
+\XKV@tempa@toks=\toks44
+)
+\XKV@depth=\count120
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+LaTeX Font Info:    Try loading font information for OT1+mdbch on input line 18
+6.
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\mathdesign\mdbch\ot1mdbc
+h.fd
+File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
+)
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 186.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 449.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 450.
+\symmathdesignA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `mathdesignA' in version `bold'
+(Font)                  MDA/mdbch/m/n --> MDA/mdbch/b/n on input line 491.
+\symmathdesignB=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `mathdesignB' in version `bold'
+(Font)                  MDB/mdbch/m/n --> MDB/mdbch/b/n on input line 498.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 532.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 533.
+\rulethickness=\skip60
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+mdbch on input line 105
+.
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\mathdesign\mdbch\t1mdbch
+.fd
+File: t1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for T1/mdbch.
+)
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 105.
+))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count121
+\lst@gtempboxa=\box44
+\lst@token=\toks45
+\lst@length=\count122
+\lst@currlwidth=\dimen167
+\lst@column=\count123
+\lst@pos=\count124
+\lst@lostspace=\dimen168
+\lst@width=\dimen169
+\lst@newlines=\count125
+\lst@lineno=\count126
+\lst@maxwidth=\dimen170
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count127
+\lst@skipnumbers=\count128
+\lst@framebox=\box45
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen171
+\lightrulewidth=\dimen172
+\cmidrulewidth=\dimen173
+\belowrulesep=\dimen174
+\belowbottomsep=\dimen175
+\aboverulesep=\dimen176
+\abovetopsep=\dimen177
+\cmidrulesep=\dimen178
+\cmidrulekern=\dimen179
+\defaultaddspace=\dimen180
+\@cmidla=\count129
+\@cmidlb=\count130
+\@aboverulesep=\dimen181
+\@belowrulesep=\dimen182
+\@thisruleclass=\count131
+\@lastruleclass=\count132
+\@thisrulewidth=\dimen183
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen184
+\extrarowheight=\dimen185
+\NC@list=\toks46
+\extratabsurround=\skip61
+\backup@length=\skip62
+)
+\everycr=\toks47
+\minrowclearance=\skip63
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\rotating.sty"
+Package: rotating 2016/05/22 v2.16c rotated objects in LaTeX
+\c@r@tfl@t=\count133
+\rotFPtop=\skip64
+\rotFPbot=\skip65
+\rot@float@box=\box46
+\rot@mess@toks=\toks48
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen186
+\Hy@linkcounter=\count134
+\Hy@pagecounter=\count135
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count136
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count137
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen187
+\Fld@menulength=\count138
+\Field@Width=\dimen188
+\Fld@charsize=\dimen189
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count139
+\c@Item=\count140
+\c@Hfootnote=\count141
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count142
+\c@bookmark@seq@number=\count143
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip66
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count144
+\Gm@cntv=\count145
+\c@Gm@tempcnt=\count146
+\Gm@bindingoffset=\dimen190
+\Gm@wd@mp=\dimen191
+\Gm@odd@mp=\dimen192
+\Gm@even@mp=\dimen193
+\Gm@layoutwidth=\dimen194
+\Gm@layoutheight=\dimen195
+\Gm@layouthoffset=\dimen196
+\Gm@layoutvoffset=\dimen197
+\Gm@dimlist=\toks49
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count147
+\float@exts=\toks50
+\float@box=\box47
+\@float@everytoks=\toks51
+\@floatcapt=\box48
+)
+\@float@every@algorithm=\toks52
+\c@algorithm=\count148
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithms\algorithmic.s
+ty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count149
+\c@ALC@line=\count150
+\c@ALC@rem=\count151
+\c@ALC@depth=\count152
+\ALC@tlm=\skip67
+\algorithmicindent=\skip68
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\wallpaper\wallpaper.sty
+Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count153
+\calc@Bcount=\count154
+\calc@Adimen=\dimen198
+\calc@Bdimen=\dimen199
+\calc@Askip=\skip69
+\calc@Bskip=\skip70
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count155
+\calc@Cskip=\skip71
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\eso-pic\eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+)
+\wpXoffset=\skip72
+\wpYoffset=\skip73
+\tileXoffset=\skip74
+\tileYoffset=\skip75
+\tilewidth=\skip76
+\tileheight=\skip77
+\tileX=\skip78
+\tileY=\skip79
+)
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 53.
+
+Package hyperref Info: Option `unicode' set `false' on input line 53.
+Package hyperref Info: Option `pdftoolbar' set `true' on input line 53.
+Package hyperref Info: Option `pdfmenubar' set `true' on input line 53.
+Package hyperref Info: Option `pdffitwindow' set `false' on input line 53.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 53.
+Package hyperref Info: Option `colorlinks' set `true' on input line 53.
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\clrscode\clrscode.sty
+Package: clrscode 2007/03/29 v1.7 format pseudocode
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+\c@codelinenumber=\count156
+\c@indent=\count157
+\digitwidth=\skip80
+\savecode=\box49
+\codeboxwidth=\skip81
+\c@thisindent=\count158
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen256
+\epsfysize=\dimen257
+)
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz
+\libraries\tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz
+\libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
+)
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\shapes\p
+gflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+
+))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz
+\libraries\tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\shapes\p
+gflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.5)
+))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz
+\libraries\tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\shapes\p
+gflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.1a (rcs-revision 1.6)
+))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz
+\libraries\tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\shapes\p
+gflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz
+\libraries\tikzlibraryshapes.callouts.code.tex
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\shapes\p
+gflibraryshapes.callouts.code.tex))
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz
+\libraries\tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
+)
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\shapes\p
+gflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
+
+\pgfnodepartlowerbox=\box50
+\pgfnodeparttwobox=\box51
+\pgfnodepartthreebox=\box52
+\pgfnodepartfourbox=\box53
+\pgfnodeparttwentybox=\box54
+\pgfnodepartnineteenbox=\box55
+\pgfnodeparteighteenbox=\box56
+\pgfnodepartseventeenbox=\box57
+\pgfnodepartsixteenbox=\box58
+\pgfnodepartfifteenbox=\box59
+\pgfnodepartfourteenbox=\box60
+\pgfnodepartthirteenbox=\box61
+\pgfnodeparttwelvebox=\box62
+\pgfnodepartelevenbox=\box63
+\pgfnodeparttenbox=\box64
+\pgfnodepartninebox=\box65
+\pgfnodeparteightbox=\box66
+\pgfnodepartsevenbox=\box67
+\pgfnodepartsixbox=\box68
+\pgfnodepartfivebox=\box69
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+\TX@col@width=\dimen258
+\TX@old@table=\dimen259
+\TX@old@col=\dimen260
+\TX@target=\dimen261
+\TX@delta=\dimen262
+\TX@cols=\count159
+\TX@ftn=\toks53
+) (StreamMining.aux
+(introduction.aux) (hoeffdingtrees.aux) (numerichandling.aux) (predstrat.aux)
+(improvebackground.aux)
+
+LaTeX Warning: Label `CVFDT' multiply defined.
+
+)
+\openout1 = `StreamMining.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 74.
+LaTeX Font Info:    Try loading font information for MDA+cmr on input line 74.
+ (C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\mathdesign\mdacmr.fd
+File: mdacmr.fd 
+)
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 74.
+LaTeX Font Info:    Try loading font information for MDB+cmr on input line 74.
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\mathdesign\mdbcmr.fd
+File: mdbcmr.fd 
+)
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+
+ABD: EveryShipout initializing macros
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count160
+\scratchdimen=\dimen263
+\scratchbox=\box70
+\nofMPsegments=\count161
+\nofMParguments=\count162
+\everyMPshowfont=\toks54
+\MPscratchCnt=\count163
+\MPscratchDim=\dimen264
+\MPnumerator=\count164
+\makeMPintoPDFobject=\count165
+\everyMPtoPDFconversion=\toks55
+)
+\c@lstlisting=\count166
+\AtBeginShipoutBox=\box71
+Package hyperref Info: Link coloring ON on input line 74.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count167
+)
+LaTeX Info: Redefining \ref on input line 74.
+LaTeX Info: Redefining \pageref on input line 74.
+LaTeX Info: Redefining \nameref on input line 74.
+
+(StreamMining.out) (StreamMining.out)
+\@outlinefile=\write5
+\openout5 = `StreamMining.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead twoside 
+* h-part:(L,W,R)=(113.81102pt, 398.3386pt, 85.35826pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=398.3386pt
+* \textheight=670.90929pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=13.08827pt
+* \topmargin=-1.1381pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+<figures/LogoMOA.jpg, id=482, 237.88875pt x 118.19156pt>
+File: figures/LogoMOA.jpg Graphic file (type jpg)
+
+<use figures/LogoMOA.jpg>
+Package pdftex.def Info: figures/LogoMOA.jpg used on input line 82.
+(pdftex.def)             Requested size: 171.80609pt x 85.35826pt.
+
+<figures/Waikato.png, id=483, 1342.01375pt x 518.93875pt>
+File: figures/Waikato.png Graphic file (type png)
+
+<use figures/Waikato.png>
+Package pdftex.def Info: figures/Waikato.png used on input line 82.
+(pdftex.def)             Requested size: 220.72647pt x 85.35826pt.
+LaTeX Font Info:    Try loading font information for T1+pag on input line 82.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pag.fd"
+File: t1pag.fd 2001/06/04 font definitions for T1/pag.
+)
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <60> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 82.
+LaTeX Font Info:    Try loading font information for T1+bch on input line 82.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1bch.fd"
+File: t1bch.fd 2004/10/18 font definitions for T1/bch.
+)
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 16.58891pt on input line 82.
+
+<figures/cosi_logo.png, id=484, 224.84pt x 46.574pt>
+File: figures/cosi_logo.png Graphic file (type png)
+
+<use figures/cosi_logo.png>
+Package pdftex.def Info: figures/cosi_logo.png used on input line 82.
+(pdftex.def)             Requested size: 137.36147pt x 28.45274pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<figures/Title.jpg, id=486, 3276.24pt x 2457.18pt>
+File: figures/Title.jpg Graphic file (type jpg)
+ <use figures/Title.jpg>
+Package pdftex.def Info: figures/Title.jpg used on input line 82.
+(pdftex.def)             Requested size: 597.49641pt x 448.1223pt.
+
+[1
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!{C:/Users/Andrzej/AppData/Local/MiKTeX/2.9/pdftex/confi
+g/pdftex.map} <./figures/Title.jpg> <./figures/LogoMOA.jpg> <./figures/Waikato.
+png> <./figures/cosi_logo.png>] [2
+
+]
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 23.88496pt on input line 89.
+LaTeX Font Info:    Try loading font information for T1+put on input line 89.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1put.fd"
+File: t1put.fd 2001/06/04 font definitions for T1/put.
+) (StreamMining.toc
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 13.82408pt on input line 1.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 13.82408pt on input line 1.
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 11.52008pt on input line 2.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Try loading font information for OML+mdbch on input line 3.
+
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\mathdesign\mdbch\omlmdbc
+h.fd
+File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
+)
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 11.52008pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Try loading font information for OMS+mdbch on input line 3.
+
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\mathdesign\mdbch\omsmdbc
+h.fd
+File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
+)
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 3.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 3.
+
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\mathdesign\mdbch\omxmdbc
+h.fd
+File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
+)
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 3.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 3.
+
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\mathdesign\mdbch\mdamdbc
+h.fd
+File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
+)
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 3.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Try loading font information for MDB+mdbch on input line 3.
+
+
+(C:\Users\Andrzej\AppData\Roaming\MiKTeX\2.9\tex\latex\mathdesign\mdbch\mdbmdbc
+h.fd
+File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
+)
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 3.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 3.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [1
+
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \hbox (1.3593pt too wide) detected at line 77
+ []\T1/mdbch/m/n/12 103
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 80
+ []\T1/mdbch/m/n/12 108
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 81
+ []\T1/mdbch/m/n/12 108
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 82
+ []\T1/mdbch/m/n/12 108
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 83
+ []\T1/mdbch/m/n/12 110
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 84
+ []\T1/mdbch/m/n/12 111
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 85
+ []\T1/mdbch/m/n/12 111
+ []
+
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 86.
+[2
+Non-PDF special ignored!]
+Overfull \hbox (1.3593pt too wide) detected at line 86
+ []\T1/mdbch/m/n/12 113
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 87
+ []\T1/mdbch/m/n/12 114
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 89
+ []\T1/mdbch/m/n/12 117
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 90
+ []\T1/mdbch/m/n/12 118
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 91
+ []\T1/mdbch/m/n/12 118
+ []
+
+LaTeX Font Info:    Font shape `T1/cmtt/m/n' will be
+(Font)              scaled to size 12.86407pt on input line 92.
+
+Overfull \hbox (1.3593pt too wide) detected at line 92
+ []\T1/mdbch/m/n/12 118
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 93
+ []\T1/mdbch/m/n/12 122
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 94
+ []\T1/mdbch/m/n/12 123
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 95
+ []\T1/mdbch/m/n/12 128
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 97
+ []\T1/mdbch/m/n/12 131
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 98
+ []\T1/mdbch/m/n/12 132
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 99
+ []\T1/mdbch/m/n/12 132
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 101
+ []\T1/mdbch/m/n/12 135
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 102
+ []\T1/mdbch/m/n/12 136
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 103
+ []\T1/mdbch/m/n/12 136
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 104
+ []\T1/mdbch/m/n/12 137
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 106
+ []\T1/mdbch/m/n/12 139
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 107
+ []\T1/mdbch/m/n/12 142
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 108
+ []\T1/mdbch/m/n/12 142
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 109
+ []\T1/mdbch/m/n/12 143
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 111
+ []\T1/mdbch/m/n/12 146
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 112
+ []\T1/mdbch/m/n/12 148
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 113
+ []\T1/mdbch/m/n/12 148
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 115
+ []\T1/mdbch/m/n/12 149
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 116
+ []\T1/mdbch/m/n/12 151
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 118
+ []\T1/mdbch/m/n/12 156
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 119
+ []\T1/mdbch/m/n/12 157
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 120
+ []\T1/mdbch/m/n/12 157
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 121
+ []\T1/mdbch/m/n/12 158
+ []
+
+
+Overfull \hbox (1.3593pt too wide) detected at line 122
+ []\T1/mdbch/m/n/12 160
+ []
+
+)
+\tf@toc=\write6
+\openout6 = `StreamMining.toc'.
+
+ [3
+Non-PDF special ignored!
+Non-PDF special ignored!] [4
+
+] (ConMacros.tex
+\c@theorem=\count168
+\c@definition=\count169
+\c@proposition=\count170
+\c@corollary=\count171
+\c@example=\count172
+\c@lemma=\count173
+)
+Overfull \hbox (5.34746pt too wide) in paragraph at lines 108--114
+\T1/mdbch/m/n/12 go-rithms and run-ning ex-per-i-ments for on-line learn-ing fr
+om evolv-ing data streams. 
+ []
+
+File: figures/LogoMOA.jpg Graphic file (type jpg)
+<use figures/LogoMOA.jpg>
+Package pdftex.def Info: figures/LogoMOA.jpg used on input line 116.
+(pdftex.def)             Requested size: 114.53738pt x 56.9055pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.155 \part
+           {Introduction and Preliminaries} [1
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.155 \part
+           {Introduction and Preliminaries} [2
+
+]
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 23.88496pt on input line 155.
+ [3
+Non-PDF special ignored!
+Non-PDF special ignored!] [4]
+\openout2 = `introduction.aux'.
+
+ (introduction.tex
+Chapter 1.
+LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
+(Font)              scaled to size 11.52008pt on input line 20.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <17.28> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 30.
+[5
+
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \hbox (3.19228pt too wide) in paragraph at lines 51--54
+[]\T1/mdbch/m/n/12 Measuring data stream clas-si-fi-ca-tion per-for-mance is a 
+three di-men-sional prob-
+ []
+
+[6
+Non-PDF special ignored!] [7
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!] [8
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]
+<figures/ds_cycle.pdf, id=682, 259.97125pt x 292.09125pt>
+File: figures/ds_cycle.pdf Graphic file (type pdf)
+
+<use figures/ds_cycle.pdf>
+Package pdftex.def Info: figures/ds_cycle.pdf used on input line 117.
+(pdftex.def)             Requested size: 259.97061pt x 292.09052pt.
+ [9
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!] [10pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.1.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.147 \item[rules]
+                   Rules are somewhat similar to decision trees, as a decisi...
+Non-PDF special ignored! <./figures/ds_cycle.pdf>] [11
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \hbox (10.46239pt too wide) in paragraph at lines 257--258
+\T1/mdbch/m/n/12 The fol-low-ing dif-fer-ent modes of change have been iden-ti-
+fied in the lit-er-a-ture [[],
+ []
+
+[12
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!] [13
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!] [14
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!] [15
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]) [16
+Non-PDF special ignored!] (experimentalsetting.tex
+Chapter 2.
+<figures/MOATask.png, id=811, 642.4pt x 481.8pt>
+File: figures/MOATask.png Graphic file (type png)
+ <use figures/MOATask.png>
+Package pdftex.def Info: figures/MOATask.png used on input line 11.
+(pdftex.def)             Requested size: 227.6174pt x 170.71652pt.
+
+[17
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) 
+has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.20 
+     
+Non-PDF special ignored!
+Non-PDF special ignored! <./figures/MOATask.png>] [18
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!] [19
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!] [20
+Non-PDF special ignored!]
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 90.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 91.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 91.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 91.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 9.60007pt on input line 91.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 6.72005pt on input line 91.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 4.80003pt on input line 91.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 91.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 91.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 91.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 91.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 91.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 91.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 91.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 91.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 91.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 91.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 91.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 91.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 9.60007pt on input line 91.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 91.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 91.
+ [21
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!] [22pdfTeX warning (ext4): destination with the same i
+dentifier (name{table.2.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.175 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.2
+.2}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.175 
+      
+Non-PDF special ignored!] [23
+Non-PDF special ignored!
+Non-PDF special ignored!] [24
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!] [25
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]
+<figures/holdout_vs_interleaved.pdf, id=918, 361.35pt x 252.945pt>
+File: figures/holdout_vs_interleaved.pdf Graphic file (type pdf)
+
+<use figures/holdout_vs_interleaved.pdf>
+Package pdftex.def Info: figures/holdout_vs_interleaved.pdf used on input line 
+227.
+(pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
+ [26pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
+2}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.233 
+      
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored! <./figures/holdout_vs_interleaved.pdf>]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 240.
+ [27
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!] <figures/AvsB.pdf, id=954, 361.35pt x 252.945pt>
+File: figures/AvsB.pdf Graphic file (type pdf)
+
+<use figures/AvsB.pdf>
+Package pdftex.def Info: figures/AvsB.pdf used on input line 272.
+(pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
+ [28pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
+3}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.282 T
+       o rule out any effect that data order may have on the learning proces...
+Non-PDF special ignored! <./figures/AvsB.pdf>] [29
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!] [30
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]
+LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
+(Font)              scaled to size 11.52008pt on input line 390.
+ [31
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!] [32pdfTeX warning (ext4): destination with the same i
+dentifier (name{table.2.3}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.463 
+      
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]
+Underfull \hbox (badness 10000) in paragraph at lines 515--520
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--527
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--534
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--544
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--553
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--569
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--574
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 574--579
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--585
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--595
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--595
+
+ []
+
+[33
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!] [34pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.2.4}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.636 \end{table}
+                 
+Non-PDF special ignored!] [35pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.2.5}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.636 \end{table}
+                 
+Non-PDF special ignored!
+Non-PDF special ignored!]) (ExpSetting.tex [36pdfTeX warning (ext4): destinatio
+n with the same identifier (name{table.2.4}) has been already used, duplicate i
+gnored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.3 \section{Evolving Stream Experimental Setting}
+                                                  
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!] [37pdfTeX warning (ext4): destination with the same i
+dentifier (name{table.2.5}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.3 \section{Evolving Stream Experimental Setting}
+                                                  
+Non-PDF special ignored!
+Non-PDF special ignored!] [38
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!] [39pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.2.6}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.308 ..._0-W) = 1/( 1+ e^{-4}) \approx 98.20 \%$$
+                                                  
+Non-PDF special ignored!
+Non-PDF special ignored!]
+
+LaTeX Font Warning: Font shape `OMS/mdbch/m/it' undefined
+(Font)              using `OMS/mdbch/m/n' instead
+(Font)              for symbol `textbullet' on input line 315.
+
+LaTeX Font Info:    Font shape `OMS/mdbch/m/it' will be
+(Font)              scaled to size 11.52008pt on input line 316.
+
+Overfull \hbox (9.96674pt too wide) in paragraph at lines 357--363
+[]\T1/mdbch/m/n/12 They were in-tro-duced by Schlim-mer and Granger
+ []
+
+[40
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!] [41
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 468--481
+[]\T1/mdbch/m/n/12 Another widely used dataset is the Elec-tric-ity Mar-ket Dat
+aset
+ []
+
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 485.
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 485.
+) [42
+Non-PDF special ignored!] [43
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!] [44]
+\openout2 = `hoeffdingtrees.aux'.
+
+ (hoeffdingtrees.tex
+Chapter 3.
+[45
+
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!] [46
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!] [47
+Non-PDF special ignored!
+Non-PDF special ignored!] [48
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]
+<figures/hoeffdingbound2class.pdf, id=1200, 361.35pt x 252.945pt>
+File: figures/hoeffdingbound2class.pdf Graphic file (type pdf)
+
+<use figures/hoeffdingbound2class.pdf>
+Package pdftex.def Info: figures/hoeffdingbound2class.pdf used on input line 11
+2.
+(pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
+ [49pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.119 \subsection{Sufficient Statistics}
+                                        
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored! <./figures/hoeffdingbound2class.pdf>] [50
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]
+<figures/gp_rrbfc_acc_examples.pdf, id=1225, 361.35pt x 252.945pt>
+File: figures/gp_rrbfc_acc_examples.pdf Graphic file (type pdf)
+
+<use figures/gp_rrbfc_acc_examples.pdf>
+Package pdftex.def Info: figures/gp_rrbfc_acc_examples.pdf used on input line 1
+41.
+(pdftex.def)             Requested size: 199.1693pt x 139.41736pt.
+
+<figures/gp_rrbfc_acc_examples_fullrange.pdf, id=1226, 361.35pt x 252.945pt>
+File: figures/gp_rrbfc_acc_examples_fullrange.pdf Graphic file (type pdf)
+
+<use figures/gp_rrbfc_acc_examples_fullrange.pdf>
+Package pdftex.def Info: figures/gp_rrbfc_acc_examples_fullrange.pdf used on in
+put line 142.
+(pdftex.def)             Requested size: 199.1693pt x 139.41736pt.
+
+<figures/gp_rrbfc_time.pdf, id=1227, 361.35pt x 252.945pt>
+File: figures/gp_rrbfc_time.pdf Graphic file (type pdf)
+
+<use figures/gp_rrbfc_time.pdf>
+Package pdftex.def Info: figures/gp_rrbfc_time.pdf used on input line 143.
+(pdftex.def)             Requested size: 199.1693pt x 139.41736pt.
+
+<figures/gp_rrbfc_acc_time.pdf, id=1228, 361.35pt x 252.945pt>
+File: figures/gp_rrbfc_acc_time.pdf Graphic file (type pdf)
+
+<use figures/gp_rrbfc_acc_time.pdf>
+Package pdftex.def Info: figures/gp_rrbfc_acc_time.pdf used on input line 144.
+(pdftex.def)             Requested size: 199.1693pt x 139.41736pt.
+
+Overfull \hbox (7.3977pt too wide) in paragraph at lines 140--146
+ [][] 
+ []
+
+[51pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2
+}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.165 I
+       n the batch learning setting it is very easy to induce a tree that pe...
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored! <./figures/gp_rrbfc_acc_examples.pdf> <./figures/gp_rr
+bfc_acc_examples_fullrange.pdf> <./figures/gp_rrbfc_time.pdf> <./figures/gp_rrb
+fc_acc_time.pdf>]
+<figures/tiebreak_rrbfc_size.pdf, id=1247, 361.35pt x 252.945pt>
+File: figures/tiebreak_rrbfc_size.pdf Graphic file (type pdf)
+
+<use figures/tiebreak_rrbfc_size.pdf>
+Package pdftex.def Info: figures/tiebreak_rrbfc_size.pdf used on input line 183
+.
+(pdftex.def)             Requested size: 199.1693pt x 139.41736pt.
+
+<figures/tiebreak_rrbfc_acc.pdf, id=1248, 361.35pt x 252.945pt>
+File: figures/tiebreak_rrbfc_acc.pdf Graphic file (type pdf)
+
+<use figures/tiebreak_rrbfc_acc.pdf>
+Package pdftex.def Info: figures/tiebreak_rrbfc_acc.pdf used on input line 184.
+
+(pdftex.def)             Requested size: 199.1693pt x 139.41736pt.
+
+Overfull \hbox (7.3977pt too wide) in paragraph at lines 182--186
+ [][] 
+ []
+
+[52
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]
+<figures/skewedsplits_rrbfc_acc.pdf, id=1256, 361.35pt x 252.945pt>
+File: figures/skewedsplits_rrbfc_acc.pdf Graphic file (type pdf)
+
+<use figures/skewedsplits_rrbfc_acc.pdf>
+Package pdftex.def Info: figures/skewedsplits_rrbfc_acc.pdf used on input line 
+201.
+(pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
+
+<figures/leaves_bytes.pdf, id=1259, 361.35pt x 252.945pt>
+File: figures/leaves_bytes.pdf Graphic file (type pdf)
+
+<use figures/leaves_bytes.pdf>
+Package pdftex.def Info: figures/leaves_bytes.pdf used on input line 215.
+(pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
+ [53pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+3}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.223 
+      
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored! <./figures/tiebreak_rrbfc_size.pdf> <./figures/tiebrea
+k_rrbfc_acc.pdf>] [54pdfTeX warning (ext4): destination with the same identifie
+r (name{figure.3.4}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.223 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+3.5}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.223 
+      
+Non-PDF special ignored! <./figures/skewedsplits_rrbfc_acc.pdf> <./figures/leav
+es_bytes.pdf>] <figures/memmanage.pdf, id=1283, 627.34375pt x 271.0125pt>
+File: figures/memmanage.pdf Graphic file (type pdf)
+
+<use figures/memmanage.pdf>
+Package pdftex.def Info: figures/memmanage.pdf used on input line 234.
+(pdftex.def)             Requested size: 378.42044pt x 163.4813pt.
+
+<figures/memslip.pdf, id=1287, 361.35pt x 252.945pt>
+File: figures/memslip.pdf Graphic file (type pdf)
+ <use figures/memslip.pdf>
+Package pdftex.def Info: figures/memslip.pdf used on input line 242.
+(pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
+
+[55
+Non-PDF special ignored!
+Non-PDF special ignored!] [56pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.3.6}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.248 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+3.7}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.248 
+      
+Non-PDF special ignored! <./figures/memmanage.pdf> <./figures/memslip.pdf>]
+[57
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]
+<figures/pooratt_active.pdf, id=1315, 361.35pt x 252.945pt>
+File: figures/pooratt_active.pdf Graphic file (type pdf)
+
+<use figures/pooratt_active.pdf>
+Package pdftex.def Info: figures/pooratt_active.pdf used on input line 265.
+(pdftex.def)             Requested size: 199.1693pt x 139.41736pt.
+
+<figures/pooratt_acc.pdf, id=1316, 361.35pt x 252.945pt>
+File: figures/pooratt_acc.pdf Graphic file (type pdf)
+
+<use figures/pooratt_acc.pdf>
+Package pdftex.def Info: figures/pooratt_acc.pdf used on input line 266.
+(pdftex.def)             Requested size: 199.1693pt x 139.41736pt.
+
+Overfull \hbox (7.3977pt too wide) in paragraph at lines 264--268
+ [][] 
+ []
+
+[58pdfTeX warning (ext4): destination with the same identifier (name{figure.3.8
+}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.286 
+      
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored! <./figures/pooratt_active.pdf> <./figures/pooratt_acc.
+pdf>] [59
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!] [60pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.3.9}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.360 
+      
+Non-PDF special ignored!]) [61pdfTeX warning (ext4): destination with the same 
+identifier (name{figure.3.10}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.160 \include{hoeffdingtrees}
+                               %\cleardoublepage{}
+Non-PDF special ignored!
+Non-PDF special ignored!]
+\openout2 = `numerichandling.aux'.
+
+ (numerichandling.tex [62
+
+
+
+]
+Chapter 4.
+
+Overfull \hbox (12.6596pt too wide) in paragraph at lines 23--24
+\T1/mdbch/m/n/12 ied in the batch set-ting. Some al-go-rithms, for ex-am-ple \T
+1/mdbch/m/it/12 sup-port vec-tor ma-chines \T1/mdbch/m/n/12 [[]],
+ []
+
+[63
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \hbox (2.4905pt too wide) in paragraph at lines 57--58
+\T1/mdbch/m/n/12 This \T1/mdbch/m/it/12 global un-su-per-vised para-met-ric \T1
+/mdbch/m/n/12 method di-vides the con-tin-u-ous nu-meric range
+ []
+
+
+Underfull \vbox (badness 3449) has occurred while \output is active []
+
+ [64
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!] [65pdfTeX warning (ext4): destination with the same i
+dentifier (name{table.4.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.67 \subsection{Fayyad and Irani}
+                                  
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!] [66
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]
+Overfull \hbox (0.25552pt too wide) in paragraph at lines 92--93
+\T1/mdbch/m/n/12 data streams for ma-chine learn-ing pur-poses is pre-sented by
+ Gama and Pinto [[]].
+ []
+
+[67
+Non-PDF special ignored!
+Non-PDF special ignored!] [68pdfTeX warning (ext4): destination with the same i
+dentifier (name{table.4.2}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.128 
+      
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!] [69
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \hbox (4.45354pt too wide) in paragraph at lines 159--161
+\T1/mdbch/m/n/12 with even stronger ac-cu-racy guar-an-tees, thus rep-re-sent-i
+ng the best cur-rent known
+ []
+
+[70
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!] [71
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]
+<figures/gaussian2class.pdf, id=1466, 557.08125pt x 322.20375pt>
+File: figures/gaussian2class.pdf Graphic file (type pdf)
+
+<use figures/gaussian2class.pdf>
+Package pdftex.def Info: figures/gaussian2class.pdf used on input line 223.
+(pdftex.def)             Requested size: 398.3386pt x 230.39359pt.
+
+<figures/gaussian3class.pdf, id=1467, 557.08125pt x 334.24875pt>
+File: figures/gaussian3class.pdf Graphic file (type pdf)
+
+<use figures/gaussian3class.pdf>
+Package pdftex.def Info: figures/gaussian3class.pdf used on input line 229.
+(pdftex.def)             Requested size: 398.3386pt x 239.00644pt.
+
+<figures/gaussian4class.pdf, id=1468, 557.08125pt x 348.30125pt>
+File: figures/gaussian4class.pdf Graphic file (type pdf)
+
+<use figures/gaussian4class.pdf>
+Package pdftex.def Info: figures/gaussian4class.pdf used on input line 235.
+(pdftex.def)             Requested size: 398.3386pt x 249.05476pt.
+ [72
+Non-PDF special ignored!] [73pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.4.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.243 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+4.2}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.243 
+      
+Non-PDF special ignored!
+Non-PDF special ignored! <./figures/gaussian2class.pdf> <./figures/gaussian3cla
+ss.pdf>] [74pdfTeX warning (ext4): destination with the same identifier (name{f
+igure.4.3}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.247 
+      
+Non-PDF special ignored! <./figures/gaussian4class.pdf>]) [75
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]
+\openout2 = `predstrat.aux'.
+
+ (predstrat.tex [76
+
+
+
+]
+Chapter 5.
+[77
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [78pdfTeX warning (ext4): destination with the same identifier (name{table.5.1
+}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.57 \end{eqnarray*}
+                    
+Non-PDF special ignored!] [79
+Non-PDF special ignored!
+Non-PDF special ignored!] [80
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]) [81
+Non-PDF special ignored!
+Non-PDF special ignored!]
+\openout2 = `improvebackground.aux'.
+
+ (improvebackground.tex [82
+
+
+
+]
+Chapter 6.
+[83
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \hbox (1.42976pt too wide) in paragraph at lines 60--61
+[]\T1/mdbch/m/n/12 Dietterich sur-veys en-sem-ble meth-ods for ma-chine learn-i
+ng clas-si-fi-ca-tion [[]].
+ []
+
+[84
+Non-PDF special ignored!]
+<figures/multitreereppower2.pdf, id=1623, 361.35pt x 252.945pt>
+File: figures/multitreereppower2.pdf Graphic file (type pdf)
+
+<use figures/multitreereppower2.pdf>
+Package pdftex.def Info: figures/multitreereppower2.pdf used on input line 83.
+(pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
+ [85pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
+1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.92 
+     
+Non-PDF special ignored!
+Non-PDF special ignored! <./figures/multitreereppower2.pdf>] [86
+Non-PDF special ignored!] [87
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]
+<figures/tree_boost.pdf, id=1674, 286.06876pt x 329.23pt>
+File: figures/tree_boost.pdf Graphic file (type pdf)
+
+<use figures/tree_boost.pdf>
+Package pdftex.def Info: figures/tree_boost.pdf used on input line 144.
+(pdftex.def)             Requested size: 159.333pt x 183.37285pt.
+
+<figures/flat_boost.pdf, id=1675, 385.44pt x 112.42pt>
+File: figures/flat_boost.pdf Graphic file (type pdf)
+
+<use figures/flat_boost.pdf>
+Package pdftex.def Info: figures/flat_boost.pdf used on input line 145.
+(pdftex.def)             Requested size: 219.08743pt x 63.89995pt.
+ [88
+Non-PDF special ignored!] [89pdfTeX warning (ext4): destination with the same i
+dentifier (name{figure.6.2}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.161 
+      
+Non-PDF special ignored!
+Non-PDF special ignored! <./figures/tree_boost.pdf> <./figures/flat_boost.pdf>]
+[90
+Non-PDF special ignored!] [91
+Non-PDF special ignored!
+Non-PDF special ignored!] [92
+Non-PDF special ignored!]
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 260.
+ [93
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!] [94
+Non-PDF special ignored!] [95
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \hbox (2.19002pt too wide) in paragraph at lines 317--328
+[]\T1/mdbch/m/n/12 Block boost-ing in-volves col-lect-ing data from the stream 
+into se-quen-tial blocks,
+ []
+
+[96
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!] [97
+Non-PDF special ignored!
+Non-PDF special ignored!] [98
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!] [99
+Non-PDF special ignored!
+Non-PDF special ignored!]
+LaTeX Font Info:    Font shape `OT1/mdbch/b/n' will be
+(Font)              scaled to size 11.52008pt on input line 451.
+LaTeX Font Info:    Font shape `OT1/mdbch/b/n' will be
+(Font)              scaled to size 7.68005pt on input line 451.
+LaTeX Font Info:    Font shape `OT1/mdbch/b/n' will be
+(Font)              scaled to size 5.76004pt on input line 451.
+ [100
+Non-PDF special ignored!] [101
+Non-PDF special ignored!
+Non-PDF special ignored!]
+<figures/maxOptionAcc.pdf, id=1962, 361.35pt x 252.945pt>
+File: figures/maxOptionAcc.pdf Graphic file (type pdf)
+
+<use figures/maxOptionAcc.pdf>
+Package pdftex.def Info: figures/maxOptionAcc.pdf used on input line 497.
+(pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
+ [102pdfTeX warning (ext4): destination with the same identifier (name{figure.6
+.3}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.511 \item I
+             nternal nodes are penalized by dividing their promise by the nu...
+Non-PDF special ignored! <./figures/maxOptionAcc.pdf>] [103
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]) [104
+Non-PDF special ignored!] [105
+
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!] [106] (MiningDataStreams.tex
+Chapter 7.
+[107
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!]) (ConceptDrift.tex [108
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]
+Warning: Indentation ends at level -1 in codebox on page 109.
+Warning: Indentation ends at level 1 in codebox on page 109.
+
+Underfull \vbox (badness 1194) has occurred while \output is active []
+
+ [109pdfTeX warning (ext4): destination with the same identifier (name{figure.7
+.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.465 \subsection{UFFT: Gama}
+                             
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Underfull \vbox (badness 1552) has occurred while \output is active []
+
+ [110
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!] (ConFrame.tex
+Overfull \hbox (6.76051pt too wide) in paragraph at lines 2--2
+|[]\T1/mdbch/b/n/14.4 Time Change De-tec-tors and Pre-dic-tors: A Gen-eral Fram
+e-
+ []
+
+
+Overfull \hbox (270.0pt too wide) detected at line 27
+[][]
+ []
+
+[111pdfTeX warning (ext4): destination with the same identifier (name{figure.7.
+2}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.50 \end{itemize}
+                  
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \hbox (0.31686pt too wide) in paragraph at lines 70--72
+[]\T1/mdbch/m/n/12 In Ta-ble [][]7.1[][] we clas-sify these pre-dic-tors in fou
+r classes, de-pend-ing on whether
+ []
+
+[112pdfTeX warning (ext4): destination with the same identifier (name{table.7.1
+}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.111 
+      
+Non-PDF special ignored!]
+Overfull \hbox (5.66618pt too wide) in paragraph at lines 125--127
+[]\T1/mdbch/m/n/12 A lin-ear Es-ti-ma-tor over fixed-length win-dows that flush
+es when change
+ []
+
+)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (120.0pt too wide) detected at line 677
+[]
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[113
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[114pdfTeX warning (ext4): destination with the same identifier (name{figure.7.
+3}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.769 \item T
+             heoretical guaranteespdfTeX warning (ext4): destination with the s
+ame identifier (name{figure.7.4}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.769 \item T
+             heoretical guarantees
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]) (Adwin.tex [115pdfTeX warning (ext4): destination wi
+th the same identifier (name{figure.7.5}) has been already used, duplicate igno
+red
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.1 \chapter
+            {Adaptive Sliding Windows}
+Non-PDF special ignored!
+Non-PDF special ignored!] [116
+
+]
+Chapter 8.
+[117
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!] (ConTechnical.tex
+Overfull \hbox (37.10454pt too wide) in paragraph at lines 6--6
+|[]\T1/pag/db/n/17.28 Maintaining Up-dated Win-dows of Vary-ing Length| 
+ []
+
+LaTeX Font Info:    Font shape `T1/cmtt/m/n' will be
+(Font)              scaled to size 15.43687pt on input line 90.
+LaTeX Font Info:    Font shape `OT1/mdbch/b/n' will be
+(Font)              scaled to size 9.60007pt on input line 116.
+LaTeX Font Info:    Font shape `OT1/mdbch/b/n' will be
+(Font)              scaled to size 6.72005pt on input line 116.
+LaTeX Font Info:    Font shape `OT1/mdbch/b/n' will be
+(Font)              scaled to size 4.80003pt on input line 116.
+[118
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]
+Warning: Indentation ends at level 1 in codebox on page 119.
+(ConAppendix.tex
+Overfull \hbox (22.4041pt too wide) in alignment at lines 20--24
+ [][][] []
+ []
+
+[119pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
+1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.24 \end{eqnarray*}
+                    
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \hbox (22.54778pt too wide) in alignment at lines 65--70
+ [][][] []
+ []
+
+) [120
+Non-PDF special ignored!] (Graph1E.tex
+\plotpoint=\box72
+) (Graph1R.tex) [121pdfTeX warning (ext4): destination with the same identifier
+ (name{figure.8.2}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.290 
+      
+Non-PDF special ignored!
+Non-PDF special ignored!] [122pdfTeX warning (ext4): destination with the same 
+identifier (name{figure.8.3}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.318 F
+       irst, we look for a simpler form of this bound. Let $c=1 +\epsilon$ then
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]
+Warning: Indentation ends at level 1 in codebox on page 123.
+Warning: Indentation ends at level 2 in codebox on page 123.
+[123
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!] [124pdfTeX warning (ext4): destination with the same 
+identifier (name{figure.8.4}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.433 
+      
+Non-PDF special ignored!] [125
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \hbox (3.62645pt too wide) in paragraph at lines 577--585
+\T1/cmtt/m/n/12 ADWIN0 \T1/mdbch/m/n/12 re-duces one el-e-ment by one each time
+ it de-tects changes, \T1/cmtt/m/n/12 ADWIN \T1/mdbch/m/n/12 deletes
+ []
+
+(Graph2E.tex) (Graph2R.tex)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[126
+Non-PDF special ignored!]) (ConExperiments.tex) (ConKalman.tex
+LaTeX Font Info:    Font shape `T1/cmtt/m/n' will be
+(Font)              scaled to size 18.52426pt on input line 4.
+ [127pdfTeX warning (ext4): destination with the same identifier (name{figure.8
+.5}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.18 T
+      he Kalman filter addresses the general problem of trying to estimate t...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.8.6}) 
+has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.18 T
+      he Kalman filter addresses the general problem of trying to estimate t...
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!] [128
+Non-PDF special ignored!])) (DecisionTrees.tex [129
+Non-PDF special ignored!
+Non-PDF special ignored!] [130
+
+]
+Chapter 9.
+[131
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Warning: Indentation ends at level -1 in codebox on page 132.
+Warning: Indentation ends at level -1 in codebox on page 132.
+[132
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!] [133pdfTeX warning (ext4): destination with the same 
+identifier (name{figure.9.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.741 
+      
+Non-PDF special ignored!
+Non-PDF special ignored!] [134
+Non-PDF special ignored!] [135
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!] [136
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]
+Overfull \hbox (5.39279pt too wide) in paragraph at lines 1032--1036
+[]\T1/mdbch/m/it/12 this al-ter-nate tree will evolve from then on iden-ti-call
+y as does that of VFDT($\OML/mdbch/m/it/12 D[]$\T1/mdbch/m/it/12 ),
+ []
+
+[137
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]) (EnsembleMethods.tex [138
+Non-PDF special ignored!]
+Chapter 10.
+<figures/Kappa1.pdf, id=2247, 845.1575pt x 597.23125pt>
+File: figures/Kappa1.pdf Graphic file (type pdf)
+
+<use figures/Kappa1.pdf>
+Package pdftex.def Info: figures/Kappa1.pdf used on input line 113.
+(pdftex.def)             Requested size: 354.96373pt x 250.8354pt.
+
+<figures/Kappa2.pdf, id=2248, 845.1575pt x 597.23125pt>
+File: figures/Kappa2.pdf Graphic file (type pdf)
+
+<use figures/Kappa2.pdf>
+Package pdftex.def Info: figures/Kappa2.pdf used on input line 114.
+(pdftex.def)             Requested size: 354.96373pt x 250.8354pt.
+ [139
+
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+pdfTeX warning (ext4): destination with the same identifier (name{figure.10.1})
+ has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.183 
+      
+Non-PDF special ignored!
+Non-PDF special ignored!] [140pdfTeX warning (ext4): destination with the same 
+identifier (name{figure.10.2}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.183 
+      
+Non-PDF special ignored! <./figures/Kappa1.pdf, page is rotated 90 degrees> <./
+figures/Kappa2.pdf, page is rotated 90 degrees>] [141
+Non-PDF special ignored!
+Non-PDF special ignored!] [142
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]) (Stacking.tex [143
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!] [144
+
+]
+Chapter 11.
+
+Underfull \vbox (badness 1715) has occurred while \output is active []
+
+ [145
+Non-PDF special ignored!
+Non-PDF special ignored!] [146
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!] [147
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]
+
+Package amsmath Warning: Foreign command \atopwithdelims;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 191.
+
+) (Leveraging.tex [148
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]
+Chapter 12.
+[149
+
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [150
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]
+<figures/Poisson.pdf, id=2372, 845.1575pt x 597.23125pt>
+File: figures/Poisson.pdf Graphic file (type pdf)
+
+<use figures/Poisson.pdf>
+Package pdftex.def Info: figures/Poisson.pdf used on input line 208.
+(pdftex.def)             Requested size: 338.057pt x 238.88826pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[151
+Non-PDF special ignored!
+Non-PDF special ignored!]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[152pdfTeX warning (ext4): destination with the same identifier (name{figure.12
+.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.256 
+      
+Non-PDF special ignored! <./figures/Poisson.pdf, page is rotated 90 degrees>])
+(TwitterMining.tex [153pdfTeX warning (ext4): destination with the same identif
+ier (name{table.12.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.1 \chapter
+            {Twitter Stream Mining}
+Non-PDF special ignored!
+Non-PDF special ignored!] [154
+
+]
+Chapter 13.
+[155
+Non-PDF special ignored!
+Non-PDF special ignored!] [156
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]
+Overfull \hbox (11.1654pt too wide) in paragraph at lines 281--282
+[]\T1/cmtt/m/n/12 I currently use the Nikon D90 and love it, but not as
+ []
+
+
+Overfull \hbox (31.01944pt too wide) in paragraph at lines 281--282
+\T1/cmtt/m/n/12 much as the Canon 40D/50D. I chose the D90 for the video
+ []
+
+
+Overfull \hbox (17.78342pt too wide) in paragraph at lines 286--287
+[]\T1/cmtt/m/n/12 After a whole 5 hours away from work, I get to go back
+ []
+
+
+Overfull \hbox (23.50212pt too wide) in paragraph at lines 299--306
+[]\T1/mdbch/m/it/12 Smileys \T1/mdbch/m/n/12 or \T1/mdbch/m/it/12 emoti-cons \T
+1/mdbch/m/n/12 are vi-sual cues that are as-so-ci-ated with emo-tional states [
+[],
+ []
+
+[157
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \hbox (10.19992pt too wide) in paragraph at lines 307--307
+|[]\T1/pag/db/n/17.28 Streaming Data Eval-u-a-tion with Un-bal-anced
+ []
+
+
+Overfull \hbox (3.63933pt too wide) in paragraph at lines 324--332
+\T1/mdbch/m/n/12 dure. Stan-dard es-ti-ma-tion pro-ce-dures for small datasets,
+ such as cross-validation,
+ []
+
+[158
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!] [159pdfTeX warning (ext4): destination with the same 
+identifier (name{table.13.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.434 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.1
+3.2}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.434 
+      
+Non-PDF special ignored!
+Non-PDF special ignored!] [160
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+
+
+pdfTeX warning: pdflatex.exe: pop empty color page stack 0
+Non-PDF special ignored!]) [161
+Non-PDF special ignored!
+Non-PDF special ignored!] [162
+
+] (StreamMining.bbl [163
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Underfull \hbox (badness 1092) in paragraph at lines 84--87
+[]\T1/mdbch/m/n/12 Jürgen Beringer and Eyke Hüller-meier.  An ef-fi-cient al-go
+-rithm for
+ []
+
+[164
+Non-PDF special ignored!] [165
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Underfull \hbox (badness 1688) in paragraph at lines 253--257
+[]\T1/mdbch/m/n/12 Thomas G. Di-et-terich.  Ap-prox-i-mate sta-tis-ti-cal test 
+for com-par-ing
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 253--257
+\T1/mdbch/m/n/12 su-per-vised clas-si-fi-ca-tion learn-ing al-go-rithms.  \T1/m
+dbch/m/it/12 Neu-ral Com-pu-ta-tion\T1/mdbch/m/n/12 ,
+ []
+
+[166
+Non-PDF special ignored!] [167
+Non-PDF special ignored!
+Non-PDF special ignored!] [168
+Non-PDF special ignored!] [169
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Underfull \hbox (badness 10000) in paragraph at lines 619--623
+[]\T1/mdbch/m/n/12 Geoff Hul-ten and Pe-dro Domin-gos.  VFML -- a toolkit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--623
+\T1/mdbch/m/n/12 for min-ing high-speed time-changing data streams
+ []
+
+[170
+Non-PDF special ignored!] [171
+Non-PDF special ignored!
+Non-PDF special ignored!] [172
+Non-PDF special ignored!] [173
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Underfull \hbox (badness 10000) in paragraph at lines 923--926
+[]\T1/mdbch/m/n/12 J. Ross Quin-lan.  Mini-boost-ing de-ci-sion trees,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 923--926
+\T1/mdbch/m/n/12 sub-mit-ted for pub-li-ca-tion 1998, avail-able at
+ []
+
+[174
+Non-PDF special ignored!]
+Underfull \hbox (badness 2253) in paragraph at lines 989--992
+[]\T1/mdbch/m/n/12 Robert E. Schapire and Yoram Singer.  Im-proved boost-ing us
+-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1005--1009
+[]\T1/mdbch/m/n/12 Erick Schon-feld.  Min-ing the thought stream.  TechCrunch
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1005--1009
+\T1/mdbch/m/n/12 We-blog Ar-ti-cle, [][]$\T1/cmtt/m/n/12 http : / / techcrunch 
+. com / 2009 / 02 / 15 /
+ []
+
+[175
+Non-PDF special ignored!
+Non-PDF special ignored!] [176
+Non-PDF special ignored!]
+Underfull \hbox (badness 4120) in paragraph at lines 1127--1131
+[]\T1/mdbch/m/n/12 Jay Yarow.  Twit-ter fi-nally re-veals all its se-cret stats
+.  Busi-
+ []
+
+
+Underfull \hbox (badness 5388) in paragraph at lines 1127--1131
+\T1/mdbch/m/n/12 nessIn-sider We-blog Ar-ti-cle, [][]$\T1/cmtt/m/n/12 http : / 
+/ www . businessinsider . com /
+ []
+
+) [177
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 188.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 188.
+ (StreamMining.aux (introduction.aux)
+(hoeffdingtrees.aux) (numerichandling.aux) (predstrat.aux)
+(improvebackground.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 188.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
+Package rerunfilecheck Info: File `StreamMining.out' has not changed.
+(rerunfilecheck)             Checksum: F086817F73633E04999BDADC1B93CE9C;8595.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 188.
+ ) 
+Here is how much of TeX's memory you used:
+ 24269 strings out of 493334
+ 448446 string characters out of 3139245
+ 668170 words of memory out of 3000000
+ 26262 multiletter control sequences out of 15000+200000
+ 103926 words of font info for 145 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,14n,72p,1861b,1080s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
+, replaced by a fixed one
+
+ <C:\Users\Andrzej\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi643\
+ectt1728.pk> <C:\Users\Andrzej\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
+n\ec\dpi643\ectt1440.pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/t
+exnansi.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc} <C:\U
+sers\Andrzej\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi643\ectt12
+00.pk><C:/Users/Andrzej/AppData/Roaming/MiKTeX/2.9/fonts/type1/bitstrea/charter
+/bchb8a.pfb><C:/Users/Andrzej/AppData/Roaming/MiKTeX/2.9/fonts/type1/bitstrea/c
+harter/bchr8a.pfb><C:/Users/Andrzej/AppData/Roaming/MiKTeX/2.9/fonts/type1/bits
+trea/charter/bchri8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/latxfont/lasy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/latxfont/line10.pfb><C:/Users/Andrzej/AppData/Roaming/MiKTeX/2.9/fonts/type1/m
+athdesign/mdbch/md-chb8t.pfb><C:/Users/Andrzej/AppData/Roaming/MiKTeX/2.9/fonts
+/type1/mathdesign/mdbch/md-chr7m.pfb><C:/Users/Andrzej/AppData/Roaming/MiKTeX/2
+.9/fonts/type1/mathdesign/mdbch/md-chr7t.pfb><C:/Users/Andrzej/AppData/Roaming/
+MiKTeX/2.9/fonts/type1/mathdesign/mdbch/md-chr7v.pfb><C:/Users/Andrzej/AppData/
+Roaming/MiKTeX/2.9/fonts/type1/mathdesign/mdbch/md-chr7y.pfb><C:/Users/Andrzej/
+AppData/Roaming/MiKTeX/2.9/fonts/type1/mathdesign/mdbch/md-chr8t.pfb><C:/Users/
+Andrzej/AppData/Roaming/MiKTeX/2.9/fonts/type1/mathdesign/mdbch/md-chri7m.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/adobe/utopia/putb8a.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/urw/avantgar/uagd8a.pfb>
+Output written on StreamMining.pdf (183 pages, 1454186 bytes).
+PDF statistics:
+ 2911 PDF objects out of 2984 (max. 8388607)
+ 860 named destinations out of 1000 (max. 500000)
+ 1120 words of extra memory for PDF output out of 10000 (max. 10000000)
+

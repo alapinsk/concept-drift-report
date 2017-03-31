@@ -1,0 +1,61 @@
+#libraries
+library(plyr)
+library(ggplot2)
+
+#Load data
+generator <- "LEDGenerator" 
+#AgrawalGenerator
+#RandomRBFGenerator
+#RandomRBFGeneratorDrift
+#RandomTreeGenerator
+#SEAGenerator
+#HyperplaneGenerator
+#WaveformGenerator
+#WaveformGeneratorDrift
+#LEDGenerator
+#LEDGeneratorDrift
+#STAGGERGenerator -n 5000
+
+path <- paste("F:/moa_out/generator/", generator, "/", sep="") 
+files <- list.files(path=path, pattern="*.csv")
+plot_path <- paste("F:/r_out/", generator, sep="") 
+dir.create(file.path(plot_path), showWarnings = FALSE)
+
+for(file in files)
+{
+  perpos <- which(strsplit(file, "")[[1]]==".")
+  dfName <- gsub(" ","",substr(file, 1, perpos-1))
+  print(dfName)
+  tmpDf <- read.csv(paste(path,file,sep=""),sep= ",", header = T, fileEncoding="UTF-16LE")
+  tmpDf <- rename(tmpDf, 
+         c("learning.evaluation.instances" = "learningEvaluationInstances", "evaluation.time..cpu.seconds." = "evaluationTimeInCPUSeconds"
+           ,"model.cost..RAM.Hours." = "modelCostInRAMHours", "classified.instances" = "classifiedInstances"
+           ,"classifications.correct..percent." = "classificationsCorrectPercentage", "Kappa.Statistic..percent." = "KappaStatisticPercentage"
+           ,"Kappa.Temporal.Statistic..percent." = "KappaTemporalStatisticPercentage", "Kappa.M.Statistic..percent." = "KappaMStatisticPercentage"
+           ,"model.training.instances" = "modelTrainingInstances", "model.serialized.size..bytes." = "modelSerializedSizeBytes"
+           ,"Change.detected" = "ChangeDetected", "Warning.detected" = "WarningDetected"
+           ,"labeling.cost" = "labelingCost", "newThreshold" = "newThreshold"
+           ,"maxPosterior" = "maxPosterior", "accuracyBaseLearner..percent." = "accuracyBaseLearnerPercentage")
+  )
+  
+  # assign(
+  #   dfName, tmpDf
+  #   )
+  
+  
+  
+  
+  title <- gsub("([A-Z])", " \\1", dfName) 
+  file <- paste(mean(tmpDf$classificationsCorrectPercentage), dfName,".png",sep="")
+  
+  print(paste(plot_path,"/", file, sep=""))
+  
+  ggplot(aes(x = learningEvaluationInstances, y = classificationsCorrectPercentage), data = tmpDf) + geom_line() + 
+  ggtitle(paste(title, sep=""))+ labs(x="Instance number",y="Accuracy") + xlim(0, 100000) + ylim(0,100) + 
+  theme(plot.title = element_text(size = rel(0.5)))
+  #save plot 
+  ggsave(filename=file, path=plot_path)
+  
+}
+
+

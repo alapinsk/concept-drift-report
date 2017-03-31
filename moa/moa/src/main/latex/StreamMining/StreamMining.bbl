@@ -1,0 +1,1137 @@
+\begin{thebibliography}{100}
+
+\bibitem{api}
+Twitter {API}.
+\newblock \url{http://apiwiki.twitter.com/}, 2010.
+
+\bibitem{Abdulsalam}
+Hanady Abdulsalam, David~B. Skillicorn, and Patrick Martin.
+\newblock Streaming random forests.
+\newblock In {\em IDEAS '07: Proceedings of the 11th International Database
+  Engineering and Applications Symposium}, pages 225--232, Washington, DC, USA,
+  2007. IEEE Computer Society.
+
+\bibitem{ondemand}
+Charu~C. Aggarwal, Jiawei Han, Jianyong Wang, and Philip~S. Yu.
+\newblock On demand classification of data streams.
+\newblock In {\em Knowledge Discovery and Data Mining}, pages 503--508, 2004.
+
+\bibitem{dbmine}
+Rakesh Agrawal, Tomasz Imielinski, and Arun Swami.
+\newblock Database mining: {A} performance perspective.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering},
+  5(6):914--925, 1993.
+
+\bibitem{as_dbquant}
+Rakesh Agrawal and Arun Swami.
+\newblock A one-pass space-efficient algorithm for finding quantiles.
+\newblock In {\em International Conference on Management of Data}, 1995.
+
+\bibitem{sensornetworks}
+Ian~F. Akyildiz, Weilian Su, Yogesh Sankarasubramaniam, and Erdal Cayirci.
+\newblock A survey on sensor networks.
+\newblock {\em IEEE Communications Magazine}, 40(8):102--116, 2002.
+
+\bibitem{ars_dbquant}
+Khaled Alsabti, Sanjay Ranka, and Vineet Singh.
+\newblock A one-pass algorithm for accurately estimating quantiles for
+  disk-resident data.
+\newblock In {\em International Conference on Very Large Databases}, pages
+  346--355, 1997.
+
+\bibitem{packetsniff}
+S.~Ansari, S.G. Rajeev, and H.S. Chandrashekar.
+\newblock Packet sniffing: A brief introduction.
+\newblock {\em IEEE Potentials}, 21(5):17--19, 2002.
+
+\bibitem{uci}
+A.~Asuncion and D.~J. Newman.
+\newblock {UCI} {M}achine {L}earning {R}epository
+  [http://www.ics.uci.edu/$\sim$mlearn/mlrepository.html]. {U}niversity of
+  {C}alifornia, {I}rvine, {S}chool of {I}nformation and {C}omputer {S}ciences,
+  2007.
+
+\bibitem{BBD02}
+B.~Babcock, S.~Babu, M.~Datar, R.~Motwani, and J.~Widom.
+\newblock Models and issues in data stream systems.
+\newblock In {\em Proc.\ 21st ACM Symposium on Principles of Database Systems},
+  2002.
+
+\bibitem{babcock-sampling}
+B.~Babcock, M.~Datar, and R.~Motwani.
+\newblock Sampling from a moving window over streaming data.
+\newblock In {\em Proc.\ 13th Annual ACM-SIAM Symposium on Discrete
+  Algorithms}, 2002.
+
+\bibitem{EDDM}
+Manuel Baena-Garc\'{\i}a, Jos{\'e} del Campo-{\'A}vila, Ra\'ul Fidalgo, Albert
+  Bifet, Ricard Gavald\'a, and Rafael Morales-Bueno.
+\newblock Early drift detection method.
+\newblock In {\em Fourth International Workshop on Knowledge Discovery from
+  Data Streams}, 2006.
+
+\bibitem{bartlett00}
+P.L. Bartlett, S.~Ben-David, and S.R. Kulkarni.
+\newblock Learning changing concepts by exploiting the structure of change.
+\newblock {\em Machine Learning}, 41(2):153--174, 2000.
+
+\bibitem{Baseville93}
+Mich\`{e}le Basseville and Igor~V. Nikiforov.
+\newblock {\em Detection of abrupt changes: theory and application}.
+\newblock Prentice-Hall, Inc., Upper Saddle River, NJ, USA, 1993.
+
+\bibitem{ds-instancebased}
+J{\"u}rgen Beringer and Eyke H{\"u}llermeier.
+\newblock An efficient algorithm for instance-based learning on data streams.
+\newblock In {\em Industrial Conference on Data Mining}, pages 34--48, 2007.
+
+\bibitem{BifetF10}
+Albert Bifet and Eibe Frank.
+\newblock Sentiment knowledge discovery in twitter streaming data.
+\newblock In {\em Discovery Science}, pages 1--15, 2010.
+
+\bibitem{BifetFHP10}
+Albert Bifet, Eibe Frank, Geoffrey Holmes, and Bernhard Pfahringer.
+\newblock Accurate ensembles for data streams: Combining restricted hoeffding
+  trees using stacking.
+\newblock {\em Journal of Machine Learning Research - Proceedings Track},
+  13:225--240, 2010.
+
+\bibitem{bif-gav}
+Albert Bifet and Ricard Gavald{\`a}.
+\newblock Learning from time-changing data with adaptive windowing.
+\newblock In {\em SIAM International Conference on Data Mining}, 2007.
+
+\bibitem{MOA}
+Albert Bifet, Geoff Holmes, Richard Kirkby, and Bernhard Pfahringer.
+\newblock Moa: Massive online analysis.
+\newblock {\em Journal of Machine Learning Research}, 11:1601--1604, 2010.
+
+\bibitem{ensemble}
+Albert Bifet, Geoff Holmes, Bernhard Pfahringer, Richard Kirkby, and Ricard
+  Gavald\`a.
+\newblock New ensemble methods for evolving data streams.
+\newblock In {\em 15th ACM SIGKDD International Conference on Knowledge
+  Discovery and Data Mining}, 2009.
+
+\bibitem{remco_choose}
+Remco~R. Bouckaert.
+\newblock Choosing between two learning algorithms based on calibrated tests.
+\newblock In {\em International Conference on Machine Learning}, pages 51--58,
+  2003.
+
+\bibitem{remcobayesstream}
+Remco~R. Bouckaert.
+\newblock Voting massive collections of bayesian network classifiers for data
+  streams.
+\newblock In {\em Australian Joint Conference on Artificial Intelligence},
+  pages 243--252, 2006.
+
+\bibitem{bagging}
+Leo Breiman.
+\newblock Bagging predictors.
+\newblock {\em Machine Learning}, 24(2):123--140, 1996.
+
+\bibitem{arcing}
+Leo Breiman.
+\newblock Arcing classifiers.
+\newblock {\em The Annals of Statistics}, 26(3):801--824, 1998.
+
+\bibitem{arcingresponse}
+Leo Breiman.
+\newblock Rejoinder to discussion of the paper ``arcing classifiers''.
+\newblock {\em The Annals of Statistics}, 26(3):841--849, 1998.
+
+\bibitem{pastingbites}
+Leo Breiman.
+\newblock Pasting bites together for prediction in large data sets and on-line.
+\newblock {\em Machine Learning}, 36(1/2):85--103, 1999.
+
+\bibitem{breimanpredgames}
+Leo Breiman.
+\newblock Prediction games and arcing algorithms.
+\newblock {\em Neural Computation}, 11(7):1493--1517, 1999.
+
+\bibitem{randomforests}
+Leo Breiman.
+\newblock Random forests.
+\newblock {\em Machine Learning}, 45(1):5--32, 2001.
+
+\bibitem{cart}
+Leo Breiman, Jerome Friedman, R.~Olshen, and Charles~J. Stone.
+\newblock {\em Classification and Regression Trees}.
+\newblock Wadsworth and Brooks, Monterey, CA, 1984.
+
+\bibitem{polyboost}
+Nader~H. Bshouty and Dmitry Gavinsky.
+\newblock On boosting with polynomially bounded distributions.
+\newblock {\em Journal of Machine Learning Research}, 3:483--506, 2002.
+
+\bibitem{yu-bag}
+P.~B\"uhlmann and B.~Yu.
+\newblock Analyzing bagging.
+\newblock {\em Annals of Statistics}, 2003.
+
+\bibitem{buntinetrees}
+Wray Buntine.
+\newblock Learning classification trees.
+\newblock {\em Statistics and Computing}, 2(2):63--73, 1992.
+
+\bibitem{svm}
+Christopher J.~C. Burges.
+\newblock A tutorial on support vector machines for pattern recognition.
+\newblock {\em Data Mining and Knowledge Discovery}, 2(2):121--167, 1998.
+
+\bibitem{mlcomparison}
+Rich Caruana and Alexandru Niculescu-Mizil.
+\newblock An empirical comparison of supervised learning algorithms.
+\newblock In {\em International Conference on Machine Learning}, pages
+  161--168, 2006.
+
+\bibitem{carvalho}
+Paula Carvalho, Lu\'{\i}s Sarmento, M\'{a}rio~J. Silva, and Eug\'{e}nio
+  de~Oliveira.
+\newblock Clues for detecting irony in user-generated contents: oh...!! it's
+  "so easy" ;-).
+\newblock In {\em Proceeding of the 1st International CIKM Workshop on
+  Topic-sentiment Analysis for Mass Opinion}, pages 53--56, 2009.
+
+\bibitem{icwsm10cha}
+Meeyoung Cha, Hamed Haddadi, Fabricio Benevenuto, and Krishna~P. Gummadi.
+\newblock {Measuring User Influence in Twitter: The Million Follower Fallacy}.
+\newblock In {\em Proceedings of the 4th International AAAI Conference on
+  Weblogs and Social Media}, pages 10--17, 2010.
+
+\bibitem{gaussincr}
+Tony~F. Chan and John~Gregg Lewis.
+\newblock Computing standard deviations: Accuracy.
+\newblock {\em Communications of the ACM}, 22(9):526--531, 1979.
+
+\bibitem{fastlightboost}
+Fang Chu and Carlo Zaniolo.
+\newblock Fast and light boosting for adaptive mining of data streams.
+\newblock In {\em Pacific-Asia Conference on Knowledge Discovery and Data
+  Mining}, pages 282--292, 2004.
+
+\bibitem{CS03}
+E.~Cohen and M.~Strauss.
+\newblock Maintaining time-decaying stream aggregates.
+\newblock In {\em Proc.\ 22nd ACM Symposium on Principles of Database Systems},
+  2003.
+
+\bibitem{cohen}
+Jacob Cohen.
+\newblock A coefficient of agreement for nominal scales.
+\newblock {\em Educational and Psychological Measurement}, 20(1):37--46, April
+  1960.
+
+\bibitem{Dasu}
+Tamraparni Dasu, Shankar Krishnan, Suresh Venkatasubramanian, and Ke~Yi.
+\newblock An information-theoretic approach to detecting changes in
+  multi-dimensional data streams.
+\newblock In {\em Proc.\ Interface}, 2006.
+
+\bibitem{datar02}
+M.~Datar, A.~Gionis, P.~Indyk, and R.~Motwani.
+\newblock Maintaining stream statistics over sliding windows.
+\newblock {\em SIAM Journal on Computing}, 14(1):27--45, 2002.
+
+\bibitem{choudhury:sampling}
+Munmun De~Choudhury, Yu-Ru Lin, Hari Sundaram, K.~Selcuk Candan, Lexing Xie,
+  and Aisling Kelliher.
+\newblock How does the data sampling strategy impact the discovery of
+  information diffusion in social media?
+\newblock In {\em Proceedings of the 4th International AAAI Conference on
+  Weblogs and Social Media}, pages 34--41, 2010.
+
+\bibitem{CPM}
+Imre Derenyi, Gergely Palla, and Tamas Vicsek.
+\newblock Clique percolation in random networks.
+\newblock {\em Physical Review Letters}, 94(16), 2005.
+
+\bibitem{mcnemar}
+Thomas~G. Dietterich.
+\newblock Approximate statistical test for comparing supervised classification
+  learning algorithms.
+\newblock {\em Neural Computation}, 10(7):1895--1923, 1998.
+
+\bibitem{ml_scaleup}
+Thomas~G. Dietterich.
+\newblock Machine learning research: Four current directions.
+\newblock {\em The {AI} Magazine}, 18(4):97--136, 1998.
+
+\bibitem{dietterichensembles}
+Thomas~G. Dietterich.
+\newblock Ensemble methods in machine learning.
+\newblock {\em Lecture Notes in Computer Science}, 1857:1--15, 2000.
+
+\bibitem{boostnoise}
+Thomas~G. Dietterich.
+\newblock An experimental comparison of three methods for constructing
+  ensembles of decision trees: Bagging, boosting, and randomization.
+\newblock {\em Machine Learning}, 40(2):139--157, 2000.
+
+\bibitem{ecoc}
+Thomas~G. Dietterich and Ghulum Bakiri.
+\newblock Solving multiclass learning problems via error-correcting output
+  codes.
+\newblock {\em Journal of Artificial Intelligence Research}, 2:263--286, 1995.
+
+\bibitem{madaboost}
+Carlos Domingo and Osamu Watanabe.
+\newblock Mada{B}oost: {A} modification of {A}da{B}oost.
+\newblock In {\em ACM Annual Workshop on Computational Learning Theory}, pages
+  180--189, 2000.
+
+\bibitem{Domingos97}
+Pedro Domingos.
+\newblock Why does bagging work? {A} bayesian account and its implications.
+\newblock In {\em KDD}, pages 155--158, 1997.
+
+\bibitem{vfdt}
+Pedro Domingos and Geoff Hulten.
+\newblock Mining high-speed data streams.
+\newblock In {\em International Conference on Knowledge Discovery and Data
+  Mining}, pages 71--80, 2000.
+
+\bibitem{nboptimal}
+Pedro Domingos and Michael~J. Pazzani.
+\newblock On the optimality of the simple bayesian classifier under zero-one
+  loss.
+\newblock {\em Machine Learning}, 29(2/3):103--130, 1997.
+
+\bibitem{discretize}
+James Dougherty, Ron Kohavi, and Mehran Sahami.
+\newblock Supervised and unsupervised discretization of continuous features.
+\newblock In {\em International Conference on Machine Learning}, pages
+  194--202, 1995.
+
+\bibitem{Drucker}
+Peter~F. Drucker.
+\newblock {\em Managing for the Future: The 1990s and Beyond}.
+\newblock Dutton Adult, 1992.
+
+\bibitem{bootstrap}
+Bradley Efron.
+\newblock Estimating the error rate of a prediction rule: Improvement on
+  cross-validation.
+\newblock {\em Journal of the American Statistical Association},
+  78(382):316--330, 1983.
+
+\bibitem{fszboost}
+Wei Fan, Salvatore~J. Stolfo, and Junxin Zhang.
+\newblock The application of adaboost for distributed, scalable and on-line
+  learning.
+\newblock In {\em International Conference on Knowledge Discovery and Data
+  Mining}, pages 362--366, 1999.
+
+\bibitem{fayyadirani}
+Usama~M. Fayyad and Keki~B. Irani.
+\newblock Multi-interval discretization of continuous-valued attributes for
+  classification learning.
+\newblock In {\em International Joint Conference on Artificial Intelligence},
+  pages 1022--1027, 1993.
+
+\bibitem{branchpred}
+Alan Fern and Robert Givan.
+\newblock Online ensemble learning: An empirical study.
+\newblock {\em Machine Learning}, 53(1/2):71--109, 2003.
+
+\bibitem{scallop}
+Francisco Ferrer-Troyano, Jes\'{u}s~S. Aguilar-Ruiz, and Jos\'{e}~C. Riquelme.
+\newblock Discovering decision rules from numerical data streams.
+\newblock In {\em ACM Symposium on Applied computing}, pages 649--653, 2004.
+
+\bibitem{dsrules}
+Francisco Ferrer-Troyano, Jes\'{u}s~S. Aguilar-Ruiz, and Jos\'{e}~C. Riquelme.
+\newblock Data streams classification by incremental rule learning with
+  parameterized generalization.
+\newblock In {\em ACM Symposium on Applied Computing}, pages 657--661, 2006.
+
+\bibitem{boostbymaj}
+Yoav Freund.
+\newblock Boosting a weak learning algorithm by majority.
+\newblock {\em Information and Computation}, 121(2):256--285, 1995.
+
+\bibitem{brownboost}
+Yoav Freund.
+\newblock An adaptive version of the boost by majority algorithm.
+\newblock {\em Machine Learning}, 43(3):293--318, 2001.
+
+\bibitem{adtrees}
+Yoav Freund and Llew Mason.
+\newblock The alternating decision tree learning algorithm.
+\newblock In {\em International Conference on Machine Learning}, pages
+  124--133, 1999.
+
+\bibitem{adaboost}
+Yoav Freund and Robert~E. Schapire.
+\newblock A decision-theoretic generalization of on-line learning and an
+  application to boosting.
+\newblock {\em Journal of Computer and System Sciences}, 55(1):119--139, 1997.
+
+\bibitem{arcingdiscuss}
+Yoav Freund and Robert~E. Schapire.
+\newblock Discussion of the paper ``arcing classifiers'' by {Leo Breiman}.
+\newblock {\em The Annals of Statistics}, 26(3):824--832, 1998.
+
+\bibitem{Friedman99onbagging}
+Jerome Friedman and Peter Hall.
+\newblock On bagging and nonlinear estimation.
+\newblock Technical report, Stanford University, 1999.
+
+\bibitem{logitboost}
+Jerome Friedman, Trevor Hastie, and Robert Tibshirani.
+\newblock Additive logistic regression: a statistical view of boosting.
+\newblock {\em The Annals of Statistics}, 28:337--374, 2000.
+
+\bibitem{friedman}
+Jerome~H. Friedman.
+\newblock On bias, variance, 0/1---loss, and the curse-of-dimensionality.
+\newblock {\em Data Min. Knowl. Discov.}, 1(1):55--77, 1997.
+
+\bibitem{lwclass}
+Mohamed~Medhat Gaber, Shonali Krishnaswamy, and Arkady Zaslavsky.
+\newblock On-board mining of data streams in sensor networks.
+\newblock In Sanghamitra Bandyopadhyay, Ujjwal Maulik, Lawrence~B. Holder, and
+  Diane~J. Cook, editors, {\em Advanced Methods for Knowledge Discovery from
+  Complex Data}, pages 307--335. Springer, Berlin Heidelberg, 2005.
+
+\bibitem{dssurvey}
+Mohamed~Medhat Gaber, Arkady Zaslavsky, and Shonali Krishnaswamy.
+\newblock A survey of classification methods in data streams.
+\newblock In Charu~C. Aggarwal, editor, {\em Data Streams: Models and
+  Algorithms}, chapter~3. Springer, New York, 2007.
+
+\bibitem{Gama}
+J.~Gama, P.~Medas, G.~Castillo, and P.~Rodrigues.
+\newblock Learning with drift detection.
+\newblock In {\em SBIA Brazilian Symposium on Artificial Intelligence}, pages
+  286--295, 2004.
+
+\bibitem{GamaUFFT}
+J.~Gama, P.~Medas, and R.~Rocha.
+\newblock Forest trees for on-line data.
+\newblock In {\em SAC '04: Proceedings of the 2004 ACM symposium on Applied
+  computing}, pages 632--636, New York, NY, USA, 2004. ACM Press.
+
+\bibitem{sensornetworksbook}
+{Jo\~{a}o} Gama and Mohamed~Medhat Gaber, editors.
+\newblock {\em Learning from Data Streams: Processing Techniques in Sensor
+  Networks}.
+\newblock Springer, 2007.
+
+\bibitem{ufft}
+{Jo\~{a}o} Gama, Pedro Medas, and Ricardo Rocha.
+\newblock Forest trees for on-line data.
+\newblock In {\em ACM Symposium on Applied Computing}, pages 632--636, 2004.
+
+\bibitem{discretizeds}
+{Jo\~{a}o} Gama and Carlos Pinto.
+\newblock Discretization from data streams: Applications to histograms and data
+  mining.
+\newblock In {\em ACM Symposium on Applied Computing}, pages 662--667, 2006.
+
+\bibitem{vfdtc}
+{Jo\~{a}o} Gama, Ricardo Rocha, and Pedro Medas.
+\newblock Accurate decision trees for mining high-speed data streams.
+\newblock In {\em International Conference on Knowledge Discovery and Data
+  Mining}, pages 523--528, 2003.
+
+\bibitem{gama_ann}
+{Jo\~{a}o} Gama and Pedro~Pereira Rodrigues.
+\newblock Stream-based electricity load forecast.
+\newblock In {\em European Conference on Principles and Practice of Knowledge
+  Discovery in Databases}, pages 446--453, 2007.
+
+\bibitem{GamaSR09}
+Jo{\~a}o Gama, Raquel Sebasti{\~a}o, and Pedro~Pereira Rodrigues.
+\newblock Issues in evaluation of stream learning algorithms.
+\newblock In {\em Proceedings of the 15th ACM SIGKDD International Conference
+  on Knowledge Discovery and Data Mining}, pages 329--338, 2009.
+
+\bibitem{IDC}
+John~F. Gantz, David Reinsel, Christopeher Chute, Wolfgang Schlichting, Stephen
+  Minton, Anna Toncheva, and Alex Manfrediz.
+\newblock The expanding digital universe: An updated forecast of worldwide
+  information growth through 2011.
+\newblock March 2008.
+
+\bibitem{rainforest}
+Johannes Gehrke, Raghu Ramakrishnan, and Venkatesh Ganti.
+\newblock {RainForest} - a framework for fast decision tree construction of
+  large datasets.
+\newblock {\em Data Mining and Knowledge Discovery}, 4(2/3):127--162, 2000.
+
+\bibitem{bvdilemma}
+Stuart Geman, Elie Bienenstock, and Ren\'{e} Doursat.
+\newblock Neural networks and the bias/variance dilemma.
+\newblock {\em Neural Computation}, 4(1):1--58, 1992.
+
+\bibitem{gohuang}
+Alec Go, Lei Huang, and Richa Bhayani.
+\newblock Twitter sentiment classification using distant supervision.
+\newblock In {\em CS224N Project Report, Stanford}, 2009.
+
+\bibitem{Grandvalet04}
+Yves Grandvalet.
+\newblock Bagging equalizes influence.
+\newblock {\em Machine Learning}, 55(3):251--270, 2004.
+
+\bibitem{gkquantile}
+Michael Greenwald and Sanjeev Khanna.
+\newblock Space-efficient online computation of quantile summaries.
+\newblock In {\em {ACM} Special Interest Group on Management Of Data
+  Conference}, pages 58--66, 2001.
+
+\bibitem{minescientific}
+Robert~L. Grossman, Chandrika Kamath, Philip Kegelmeyer, Vipin Kumar, and
+  Raju~R. Namburu, editors.
+\newblock {\em Data Mining for Scientific and Engineering Applications}.
+\newblock Kluwer Academic Publishers, 2001.
+
+\bibitem{dscluster2}
+Sudipto Guha, Adam Meyerson, Nina Mishra, Rajeev Motwani, and Liadan
+  O'Callaghan.
+\newblock Clustering data streams: Theory and practice.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering},
+  15(3):515--528, 2003.
+
+\bibitem{dscluster1}
+Sudipto Guha, Nina Mishra, Rajeev Motwani, and Liadan O'Callaghan.
+\newblock Clustering data streams.
+\newblock In {\em {IEEE} Symposium on Foundations of Computer Science}, pages
+  359--366, 2000.
+
+\bibitem{clickstreams}
+Sule {G\"{u}nd\"{u}z} and M.~Tamer {\"{O}zsu}.
+\newblock A web page prediction model based on click-stream tree representation
+  of user behavior.
+\newblock In {\em International Conference on Knowledge Discovery and Data
+  Mining}, pages 535--540, 2003.
+
+\bibitem{Gustaffson:2000}
+Fredrik Gustafsson.
+\newblock {\em Adaptive Filtering and Change Detection}.
+\newblock Wiley, 2000.
+
+\bibitem{weka}
+Mark Hall, Eibe Frank, Geoffrey Holmes, Bernhard Pfahringer, Peter Reutemann,
+  and Ian~H. Witten.
+\newblock The {WEKA} data mining software: an update.
+\newblock {\em SIGKDD Explor. Newsl.}, 11(1):10--18, 2009.
+
+\bibitem{webmine}
+Jiawei Han and Kevin Chang.
+\newblock Data mining for web intelligence.
+\newblock {\em IEEE Computer}, 35(11):64--70, 2002.
+
+\bibitem{minebank}
+David~J. Hand.
+\newblock Mining personal banking data to detect fraud.
+\newblock In Paula Brito, Guy Cucumel, Patrice Bertrand, and Francisco
+  de~Carvalho, editors, {\em Selected Contributions in Data Analysis and
+  Classification}, pages 377--386. Springer, 2007.
+
+\bibitem{nnensembles}
+Lars~Kai Hansen and Peter Salamon.
+\newblock Neural network ensembles.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  12(10):993--1001, 1990.
+
+\bibitem{Harries}
+Michael Harries.
+\newblock Splice-2 comparative evaluation: Electricity pricing.
+\newblock Technical report, The University of South Wales, 1999.
+
+\bibitem{kmeans}
+J.~A. Hartigan and M.~A. Wong.
+\newblock A k-means clustering algorithm.
+\newblock {\em Applied Statistics}, 28(1):100--108, 1979.
+
+\bibitem{helmbold94tracking}
+D.P. Helmbold and P.M. Long.
+\newblock Tracking drifting concepts by minimizing disagreements.
+\newblock {\em Machine Learning}, 14(1):27--45, 1994.
+
+\bibitem{herbster95tracking}
+M.~Herbster and M.~K. Warmuth.
+\newblock Tracking the best expert.
+\newblock In {\em Intl.\ Conf.\ on Machine Learning}, pages 286--294, 1995.
+
+\bibitem{ucikdd}
+S.~Hettich and S.~D. Bay.
+\newblock The {UCI KDD} archive [http://kdd.ics.uci.edu/]. {U}niversity of
+  {C}alifornia, {I}rvine, {S}chool of {I}nformation and {C}omputer {S}ciences,
+  1999.
+
+\bibitem{nbdiagnose}
+J.~Hilden.
+\newblock Statistical diagnosis based on conditional independence does not
+  require it.
+\newblock {\em Computers in Biology and Medicine}, 14(4):429--435, 1984.
+
+\bibitem{Random-subspace}
+Tin~Kam Ho.
+\newblock The random subspace method for constructing decision forests.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  20(8):832--844, 1998.
+
+\bibitem{hoeffding}
+Wassily Hoeffding.
+\newblock Probability inequalities for sums of bounded random variables.
+\newblock {\em Journal of the American Statistical Association},
+  58(301):13--30, 1963.
+
+\bibitem{stresstest}
+Geoffrey Holmes, Richard Kirkby, and Bernhard Pfahringer.
+\newblock Stress-testing hoeffding trees.
+\newblock In {\em European Conference on Principles and Practice of Knowledge
+  Discovery in Databases}, pages 495--502, 2005.
+
+\bibitem{gaberroadsafety}
+Osnat Horovitz, Shonali Krishnaswamy, and Mohamed~Medhat Gaber.
+\newblock A fuzzy approach for interpretation of ubiquitous data stream
+  clustering and its application in road safety.
+\newblock {\em Intelligent Data Analysis}, 11(1):89--108, 2007.
+
+\bibitem{particleaccelerator}
+Wolfgang Hoschek, Francisco~Javier Janez, Asad Samar, Heinz Stockinger, and
+  Kurt Stockinger.
+\newblock Data management in an international data grid project.
+\newblock In {\em International Workshop on Grid Computing}, pages 77--90,
+  2000.
+
+\bibitem{hulten-mining}
+G.~Hulten, L.~Spencer, and P.~Domingos.
+\newblock Mining time-changing data streams.
+\newblock In {\em 7th ACM SIGKDD Intl.\ Conf.\ on Knowledge Discovery and Data
+  Mining}, pages 97--106, San Francisco, CA, 2001. ACM Press.
+
+\bibitem{mineabitrarydb}
+Geoff Hulten and Pedro Domingos.
+\newblock Mining complex models from arbitrarily large databases in constant
+  time.
+\newblock In {\em International Conference on Knowledge Discovery and Data
+  Mining}, pages 525--531, 2002.
+
+\bibitem{vfml}
+Geoff Hulten and Pedro Domingos.
+\newblock {V}{F}{M}{L} -- a toolkit for mining high-speed time-changing data
+  streams [http://www.cs.washington.edu/dm/vfml/].
+\newblock 2003.
+
+\bibitem{optimaldtnp}
+Laurent Hyafil and Ronald~L. Rivest.
+\newblock Constructing optimal binary decision trees is np-complete.
+\newblock {\em Information Processing Letters}, 5(1):15--17, 1976.
+
+\bibitem{wirelessgraffiti}
+Tomasz Imielinski and Badri Nath.
+\newblock Wireless graffiti -- data, data everywhere.
+\newblock In {\em International Conference on Very Large Databases}, pages
+  9--19, 2002.
+
+\bibitem{jacob-04}
+K.~Jacobsson, N.~M{\"o}ller, K.-H. Johansson, and H.~Hjalmarsson.
+\newblock Some modeling and estimation issues in control of heterogeneous
+  networks.
+\newblock In {\em 16th Intl.\ Symposium on Mathematical Theory of Networks and
+  Systems (MTNS2004)}, 2004.
+
+\bibitem{p2quantile}
+Raj Jain and Imrich Chlamtac.
+\newblock The {P$^{2}$} algorithm for dynamic calculation of quantiles and
+  histograms without storing observations.
+\newblock {\em Communications of the ACM}, 28(10):1076--1085, 1985.
+
+\bibitem{Jansen}
+Bernard~J. Jansen, Mimi Zhang, Kate Sobel, and Abdur Chowdury.
+\newblock Micro-blogging as online word of mouth branding.
+\newblock In {\em Proceedings of the 27th International Conference Extended
+  Abstracts on Human Factors in Computing Systems}, pages 3859--3864, 2009.
+
+\bibitem{java}
+Akshay Java, Xiaodan Song, Tim Finin, and Belle Tseng.
+\newblock Why we twitter: understanding microblogging usage and communities.
+\newblock In {\em Proceedings of the 9th WebKDD and 1st SNA-KDD 2007 Workshop
+  on Web Mining and Social Network Analysis}, pages 56--65, 2007.
+
+\bibitem{nip}
+Ruoming Jin and Gagan Agrawal.
+\newblock Efficient decision tree construction on streaming data.
+\newblock In {\em Knowledge Discovery and Data Mining}, pages 571--576, 2003.
+
+\bibitem{streaming-api}
+John Kalucki.
+\newblock Twitter streaming {API}.
+\newblock \url{http://apiwiki.twitter.com/Streaming-API-Documentation}, 2010.
+
+\bibitem{Kanji}
+Gopal~K Kanji.
+\newblock {\em {100 Statistical Tests}}.
+\newblock Sage Publications Ltd, 2006.
+
+\bibitem{vehicle}
+Hillol Kargupta, Ruchita Bhargava, Kun Liu, Michael Powers, Patrick Blair,
+  Samuel Bushra, James Dull, Kakali Sarkar, Martin Klein, Mitesh Vasa, and
+  David Handy.
+\newblock {VEDAS}: A mobile and distributed data stream mining system for
+  real-time vehicle monitoring.
+\newblock In {\em SIAM International Conference on Data Mining}, 2004.
+
+\bibitem{stockmarket}
+Hillol Kargupta, Byung-Hoon Park, Sweta Pittie, Lei Liu, Deepali Kushraj, and
+  Kakali Sarkar.
+\newblock {M}obi{M}ine: {M}onitoring the stock market from a {PDA}.
+\newblock {\em {SIGKDD} Explorations}, 3(2):37--46, 2002.
+
+\bibitem{weakstronglearn}
+Michael Kearns and Leslie Valiant.
+\newblock Cryptographic limitations on learning boolean formulae and finite
+  automata.
+\newblock {\em Journal of the ACM}, 41(1):67--95, 1994.
+
+\bibitem{ds-knn}
+Maleq Khan, Qin Ding, and William Perrizo.
+\newblock k-nearest neighbor classification on spatial data streams using
+  p-trees.
+\newblock In {\em Pacific-Asia Conference on Knowledge Discovery and Data
+  Mining}, pages 517--518, 2002.
+
+\bibitem{kifer-detecting}
+D.~Kifer, S.~Ben-David, and J.~Gehrke.
+\newblock Detecting change in data streams.
+\newblock In {\em Proc.\ 30th VLDB Conf., Toronto, Canada}, 2004.
+
+\bibitem{Kirkby-PhD}
+Richard Kirkby.
+\newblock {\em Improving Hoeffding Trees}.
+\newblock PhD thesis, University of Waikato, November 2007.
+
+\bibitem{HITS}
+Jon~M. Kleinberg.
+\newblock Authoritative sources in a hyperlinked environment.
+\newblock {\em J. ACM}, 46(5):604--632, 1999.
+
+\bibitem{Klinkenberg}
+R.~Klinkenberg and T.~Joachims.
+\newblock Detecting concept drift with support vector machines.
+\newblock In {\em Proc.\ 17th Intl.\ Conf.\ on Machine Learning}, pages 487 --
+  494, 2000.
+
+\bibitem{cvstudy}
+Ron Kohavi.
+\newblock A study of cross-validation and bootstrap for accuracy estimation and
+  model selection.
+\newblock In {\em International Joint Conference on Artificial Intelligence},
+  pages 1137--1145, 1995.
+
+\bibitem{nbtree}
+Ron Kohavi.
+\newblock Scaling up the accuracy of {N}aive-{B}ayes classifiers: a
+  decision-tree hybrid.
+\newblock In {\em International Conference on Knowledge Discovery and Data
+  Mining}, pages 202--207, 1996.
+
+\bibitem{kohaviot}
+Ron Kohavi and Clayton Kunz.
+\newblock Option decision trees with majority votes.
+\newblock In {\em International Conference on Machine Learning}, pages
+  161--169, 1997.
+
+\bibitem{ecommerceapp}
+Ron Kohavi and Foster~J. Provost.
+\newblock Applications of data mining to electronic commerce.
+\newblock {\em Data Mining and Knowledge Discovery}, 5(1/2):5--10, 2001.
+
+\bibitem{bvdecomp}
+Ron Kohavi and David~H. Wolpert.
+\newblock Bias plus variance decomposition for zero-one loss functions.
+\newblock In {\em International Conference on Machine Learning}, pages
+  275--283, 1996.
+
+\bibitem{naivebayes}
+Pat Langley, Wayne Iba, and Kevin Thompson.
+\newblock An analysis of bayesian classifiers.
+\newblock In {\em National Conference on Artificial Intelligence}, pages
+  223--228, 1992.
+
+\bibitem{olin}
+Mark Last.
+\newblock Online classification of nonstationary data streams.
+\newblock {\em Intelligent Data Analysis}, 6(2):129--147, 2002.
+
+\bibitem{anncad}
+Yan-Nei Law and Carlo Zaniolo.
+\newblock An adaptive nearest neighbor classification algorithm for data
+  streams.
+\newblock In {\em European Conference on Principles and Practice of Knowledge
+  Discovery in Databases}, pages 108--120, 2005.
+
+\bibitem{bayesian}
+Herbert K.~H. Lee and Merlise~A. Clyde.
+\newblock Lossless online bayesian bagging.
+\newblock {\em J. Mach. Learn. Res.}, 5:143--151, 2004.
+
+\bibitem{minenetwork}
+Wenke Lee, Salvatore~J. Stolfo, and Kui~W. Mok.
+\newblock Mining in a data-flow environment: experience in network intrusion
+  detection.
+\newblock In {\em International Conference on Knowledge Discovery and Data
+  Mining}, pages 114--124, 1999.
+
+\bibitem{wma}
+Nick Littlestone and Manfred~K. Warmuth.
+\newblock The weighted majority algorithm.
+\newblock {\em Information and Computation}, 108(2):212--261, 1994.
+
+\bibitem{Liu:06a}
+Bing Liu.
+\newblock {\em Web data mining; Exploring hyperlinks, contents, and usage
+  data}.
+\newblock Springer, 2006.
+
+\bibitem{mrl_dbquant}
+Gurmeet~Singh Manku, Sridhar Rajagopalan, and Bruce~G. Lindsay.
+\newblock Approximate medians and other quantiles in one pass and with limited
+  memory.
+\newblock In {\em {ACM} Special Interest Group on Management Of Data
+  Conference}, pages 426--435, 1998.
+
+\bibitem{pruneboost}
+Dragos~D. Margineantu and Thomas~G. Dietterich.
+\newblock Pruning adaptive boosting.
+\newblock In {\em International Conference on Machine Learning}, pages
+  211--218, 1997.
+
+\bibitem{MargineantuD97}
+Dragos~D. Margineantu and Thomas~G. Dietterich.
+\newblock Pruning adaptive boosting.
+\newblock In {\em ICML '97}, pages 211--218, 1997.
+
+\bibitem{dtcomplexity}
+J.~Kent Martin and D.~S. Hirschberg.
+\newblock On the complexity of learning decision trees.
+\newblock In {\em International Symposium on Artificial Intelligence and
+  Mathematics}, pages 112--115, 1996.
+
+\bibitem{boost3exp}
+Ross~A. McDonald, David~J. Hand, and Idris~A. Eckley.
+\newblock An empirical comparison of three boosting algorithms on real data
+  sets with artificial class noise.
+\newblock In {\em International Workshop on Multiple Classifier Systems}, pages
+  35--44, 2003.
+
+\bibitem{sliq}
+Manish Mehta, Rakesh Agrawal, and Jorma Rissanen.
+\newblock {SLIQ}: A fast scalable classifier for data mining.
+\newblock In {\em Extending Database Technology}, pages 18--32, 1996.
+
+\bibitem{geophysical}
+Edmond Mesrobian, Richard Muntz, Eddie Shek, Siliva Nittel, Mark~La Rouche,
+  Marc Kriguer, Carlos Mechoso, John Farrara, Paul Stolorz, and Hisashi
+  Nakamura.
+\newblock Mining geophysical data for knowledge.
+\newblock {\em IEEE Expert: Intelligent Systems and Their Applications},
+  11(5):34--44, 1996.
+
+\bibitem{mayers02}
+Albert Meyer and Radhika Nagpal.
+\newblock Mathematics for computer science.
+\newblock In {\em Course Notes}, Cambridge, Massachusetts, 2002. Massachusetts
+  Institute of Technology.
+
+\bibitem{Mitchell}
+Thomas Mitchell.
+\newblock {\em Machine Learning}.
+\newblock {McGraw-Hill Education (ISE Editions)}, October 1997.
+
+\bibitem{exactquantile}
+J.~Ian Munro and Mike Paterson.
+\newblock Selection and sorting with limited storage.
+\newblock {\em Theoretical Computer Science}, 12:315--323, 1980.
+
+\bibitem{dtlookahead}
+Sreerama~K. Murthy and Steven Salzberg.
+\newblock Lookahead and pathology in decision tree induction.
+\newblock In {\em International Joint Conference on Artificial Intelligence},
+  pages 1025--1033, 1995.
+
+\bibitem{MUT03}
+S.~Muthukrishnan.
+\newblock Data streams: {A}lgorithms and applications.
+\newblock In {\em Proc.\ 14th Annual ACM-SIAM Symposium on Discrete
+  Algorithms}, 2003.
+
+\bibitem{kuncheva07}
+Anand Narasimhamurthy and Ludmila~I. Kuncheva.
+\newblock A framework for generating data to simulate changing environments.
+\newblock In {\em AIAP'07}, pages 384--389, 2007.
+
+\bibitem{astronomical}
+Michael~K. Ng, Zhexue Huang, and Markus Hegland.
+\newblock Data-mining massive time series astronomical data sets - a case
+  study.
+\newblock In {\em Pacific-Asia Conference on Knowledge Discovery and Data
+  Mining}, pages 401--402, 1998.
+
+\bibitem{Oconnor10}
+Brendan O'Connor, Ramnath Balasubramanyan, Bryan~R. Routledge, and Noah~A.
+  Smith.
+\newblock From tweets to polls: Linking text sentiment to public opinion time
+  series.
+\newblock In {\em Proceedings of the International AAAI Conference on Weblogs
+  and Social Media}, pages 122--129, 2010.
+
+\bibitem{ozaexp}
+Nikunj~C. Oza and Stuart Russell.
+\newblock Experimental comparisons of online and batch versions of bagging and
+  boosting.
+\newblock In {\em International Conference on Knowledge Discovery and Data
+  Mining}, pages 359--364, 2001.
+
+\bibitem{ozabagboost}
+Nikunj~C. Oza and Stuart Russell.
+\newblock Online bagging and boosting.
+\newblock In {\em Artificial Intelligence and Statistics}, pages 105--112,
+  2001.
+
+\bibitem{Page54}
+E.~S. Page.
+\newblock Continuous inspection schemes.
+\newblock {\em Biometrika}, 41(1/2):100--115, 1954.
+
+\bibitem{PAK}
+Alexander Pak and Patrick Paroubek.
+\newblock Twitter as a corpus for sentiment analysis and opinion mining.
+\newblock In {\em Proceedings of the Seventh Conference on International
+  Language Resources and Evaluation}, pages 1320--1326, 2010.
+
+\bibitem{Pang+Lee:08b}
+Bo~Pang and Lillian Lee.
+\newblock Opinion mining and sentiment analysis.
+\newblock {\em Foundations and Trends in Information Retrieval}, 2(1-2):1--135,
+  2008.
+
+\bibitem{optiontrees}
+Bernhard Pfahringer, Geoffrey Holmes, and Richard Kirkby.
+\newblock New options for hoeffding trees.
+\newblock In {\em AI}, pages 90--99, 2007.
+
+\bibitem{miniboost}
+J.~Ross Quinlan.
+\newblock Miniboosting decision trees, submitted for publication 1998,
+  available at http://citeseer.ist.psu.edu/quinlan99miniboosting.html.
+
+\bibitem{c4.5}
+J.~Ross Quinlan.
+\newblock {\em C4.5: programs for machine learning}.
+\newblock Morgan Kaufmann, San Francisco, 1993.
+
+\bibitem{c4.5rel8}
+J.~Ross Quinlan.
+\newblock Improved use of continuous attributes in {C4.5}.
+\newblock {\em Journal of Artificial Intelligence Research}, 4:77--90, 1996.
+
+\bibitem{Read:05a}
+Jonathon Read.
+\newblock Using emoticons to reduce dependency in machine learning techniques
+  for sentiment classification.
+\newblock In {\em Proceedings of the ACL Student Research Workshop}, pages
+  43--48, 2005.
+
+\bibitem{mdl}
+Jorma Rissanen.
+\newblock A universal prior for integers and estimation by minimum description
+  length.
+\newblock {\em The Annals of Statistics}, 11(2):416--431, 1983.
+
+\bibitem{Roberts}
+S.~W. Roberts.
+\newblock Control chart tests based on geometric moving averages.
+\newblock {\em Technometrics}, 42(1):97--101, 2000.
+
+\bibitem{romero}
+Daniel~M. Romero and Jon Kleinberg.
+\newblock The directed closure process in hybrid social-information networks,
+  with an analysis of link formation on twitter.
+\newblock In {\em Proceedings of the 4th International AAAI Conference on
+  Weblogs and Social Media}, pages 138--145, 2010.
+
+\bibitem{SaffariORF2009}
+Amir Saffari, Christian Leistner, Jakob Santner, Martin Godec, and Horst
+  Bischof.
+\newblock On-line random forests.
+\newblock In {\em 3rd IEEE - ICCV Workshop on On-line Learning for Computer
+  Vision}, 2009.
+
+\bibitem{strength}
+Robert~E. Schapire.
+\newblock The strength of weak learnability.
+\newblock {\em Machine Learning}, 5(2):197--227, 1990.
+
+\bibitem{BoostOC}
+Robert~E. Schapire.
+\newblock Using output codes to boost multiclass learning problems.
+\newblock In {\em ICML '97: Proceedings of the Fourteenth International
+  Conference on Machine Learning}, pages 313--321, San Francisco, CA, USA,
+  1997. Morgan Kaufmann Publishers Inc.
+
+\bibitem{boostingmargin}
+Robert~E. Schapire, Yoav Freund, Peter Bartlett, and Wee~Sun Lee.
+\newblock Boosting the margin: A new explanation for the effectiveness of
+  voting methods.
+\newblock In {\em International Conference on Machine Learning}, pages
+  322--330, 1997.
+
+\bibitem{boostimproved}
+Robert~E. Schapire and Yoram Singer.
+\newblock Improved boosting using confidence-rated predictions.
+\newblock {\em Machine Learning}, 37(3):297--336, 1999.
+
+\bibitem{SchlimmerG86}
+Jeffrey~C. Schlimmer and Richard~H. Granger.
+\newblock Incremental learning from noisy data.
+\newblock {\em Machine Learning}, 1(3):317--354, 1986.
+
+\bibitem{SchonEG:05}
+T.~Sch{\"o}n, A.~Eidehall, and F.~Gustafsson.
+\newblock Lane departure detection for improved road geometry estimation.
+\newblock Technical Report LiTH-ISY-R-2714, Dept.\ of Electrical Engineering,
+  Link{\"o}ping University, SE-581 83 Link{\"o}ping, Sweden, Dec 2005.
+
+\bibitem{tech-crunch}
+Erick Schonfeld.
+\newblock Mining the thought stream.
+\newblock {TechCrunch Weblog Article},
+  \url{http://techcrunch.com/2009/02/15/mining-the-thought-stream/}, 2009.
+
+\bibitem{dboptimize}
+P.~Griffiths Selinger, M.~M. Astrahan, D.~D. Chamberlin, R.~A. Lorie, and T.~G.
+  Price.
+\newblock Access path selection in a relational database management system.
+\newblock In {\em {ACM} Special Interest Group on Management Of Data
+  Conference}, pages 23--34, 1979.
+
+\bibitem{sprint}
+John Shafer, Rakesh Agrawal, and Manish Mehta.
+\newblock {SPRINT}: A scalable parallel classifier for data mining.
+\newblock In {\em International Conference on Very Large Databases}, pages
+  544--555, 1996.
+
+\bibitem{pegasos}
+Shai Shalev-Shwartz, Yoram Singer, and Nathan Srebro.
+\newblock {Pegasos: Primal Estimated sub-GrAdient SOlver for SVM}.
+\newblock In {\em Proceedings of the 24th International Conference on Machine
+  learning}, pages 807--814, 2007.
+
+\bibitem{weblogs}
+Myra Spiliopoulou.
+\newblock The laborious way from data mining to web log mining.
+\newblock {\em International Journal of Computer Systems Science and
+  Engineering}, 14(2):113--125, 1999.
+
+\bibitem{webusage}
+Jaideep Srivastava, Robert Cooley, Mukund Deshpande, and Pang-Ning Tan.
+\newblock Web usage mining: Discovery and applications of usage patterns from
+  web data.
+\newblock {\em {SIGKDD} Explorations}, 1(2):12--23, 2000.
+
+\bibitem{stanley03learning}
+Kenneth Stanley.
+\newblock Learning concept drift with a committee of decision trees.
+\newblock Technical Report AI Technical Report 03-302, Department of Computer
+  Science, University of Texas at Austin, Trinity College, 2003.
+
+\bibitem{sea}
+W.~Nick Street and YongSeog Kim.
+\newblock A streaming ensemble algorithm ({SEA}) for large-scale
+  classification.
+\newblock In {\em International Conference on Knowledge Discovery and Data
+  Mining}, pages 377--382, 2001.
+
+\bibitem{incrsvm}
+Nadeem~Ahmed Syed, Huan Liu, and Kah~Kay Sung.
+\newblock Handling concept drifts in incremental learning with support vector
+  machines.
+\newblock In {\em International Conference on Knowledge Discovery and Data
+  Mining}, pages 317--321, 1999.
+
+\bibitem{tsymbal-problem}
+Alexey Tsymbal.
+\newblock The problem of concept drift: Definitions and related work.
+\newblock Technical Report TCD-CS-2004-15, Department of Computer Science,
+  University of Dublin, Trinity College, 2004.
+
+\bibitem{tgensembles}
+Kagan Tumer and Joydeep Ghosh.
+\newblock Error correlation and error reduction in ensemble classifiers.
+\newblock {\em Connection Science}, 8(3/4):385--403, 1996.
+
+\bibitem{id5r}
+Paul~E. Utgoff.
+\newblock Incremental induction of decision trees.
+\newblock {\em Machine Learning}, 4(2):161--186, 1989.
+
+\bibitem{iti}
+Paul~E. Utgoff, Neil~C. Berkman, and Jeffery~A. Clouse.
+\newblock Decision tree induction based on efficient tree restructuring.
+\newblock {\em Machine Learning}, 29(1):5--44, 1997.
+
+\bibitem{paclearn}
+Leslie~G. Valiant.
+\newblock A theory of the learnable.
+\newblock {\em Communications of the ACM}, 27(11):1134--1142, 1984.
+
+\bibitem{reservoirsample}
+Jeffrey~S. Vitter.
+\newblock Random sampling with a reservoir.
+\newblock {\em ACM Transactions on Mathematical Software}, 11(1):37--57, 1985.
+
+\bibitem{cdensemble}
+Haixun Wang, Wei Fan, Philip~S. Yu, and Jiawei Han.
+\newblock Mining concept-drifting data streams using ensemble classifiers.
+\newblock In {\em International Conference on Knowledge Discovery and Data
+  Mining}, pages 226--235, 2003.
+
+\bibitem{telecommunications}
+Gary~M. Weiss.
+\newblock Data mining in telecommunications.
+\newblock In Oded Maimon and Lior Rokach, editors, {\em The Data Mining and
+  Knowledge Discovery Handbook}, pages 1189--1201. Springer, 2005.
+
+\bibitem{welch}
+G.~Welch and G.~Bishop.
+\newblock An introduction to the {K}alman {F}ilter.
+\newblock Technical report, University of North Carolina at Chapel Hill, Chapel
+  Hill, NC, USA, 1995.
+
+\bibitem{welfordincr}
+B.~P. Welford.
+\newblock Note on a method for calculating corrected sums of squares and
+  products.
+\newblock {\em Technometrics}, 4(3):419--420, 1962.
+
+\bibitem{WidmerKubat}
+G.~Widmer and M.~Kubat.
+\newblock Learning in the presence of concept drift and hidden contexts.
+\newblock {\em Machine Learning}, 23(1):69--101, 1996.
+
+\bibitem{stacking}
+David~H. Wolpert.
+\newblock Stacked generalization.
+\newblock {\em Neural Networks}, 5(2):241--259, 1992.
+
+\bibitem{business-insider}
+Jay Yarow.
+\newblock Twitter finally reveals all its secret stats.
+\newblock {BusinessInsider Weblog Article},
+  \url{http://www.businessinsider.com/twitter-stats-2010-4/}, 2010.
+
+\bibitem{Zhang08}
+Peng Zhang, Xingquan Zhu, and Yong Shi.
+\newblock Categorizing and mining concept drifting data streams.
+\newblock In {\em KDD '08}, 2008.
+
+\end{thebibliography}

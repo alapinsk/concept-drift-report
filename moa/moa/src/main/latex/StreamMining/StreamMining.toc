@@ -1,0 +1,125 @@
+\contentsline {part}{I\hspace {1em}Introduction and Preliminaries}{3}{part.1}
+\contentsline {chapter}{\numberline {1}Preliminaries}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}MOA Stream Mining }{5}{section.1.1}
+\contentsline {section}{\numberline {1.2}Assumptions}{7}{section.1.2}
+\contentsline {section}{\numberline {1.3}Requirements}{7}{section.1.3}
+\contentsline {section}{\numberline {1.4}Mining Strategies}{9}{section.1.4}
+\contentsline {section}{\numberline {1.5}Change Detection Strategies}{12}{section.1.5}
+\contentsline {subsubsection}{The CUSUM Test}{13}{subsubsection*.3}
+\contentsline {subsubsection}{The Geometric Moving Average Test}{13}{subsubsection*.4}
+\contentsline {subsubsection}{Statistical Tests}{14}{subsubsection*.5}
+\contentsline {subsubsection}{Drift Detection Method}{15}{subsubsection*.6}
+\contentsline {subsubsection}{Exponential Weighted Moving Average}{15}{subsubsection*.7}
+\contentsline {chapter}{\numberline {2}MOA Experimental Setting}{17}{chapter.2}
+\contentsline {section}{\numberline {2.1}Previous Evaluation Practices}{19}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Batch Setting}{19}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Data Stream Setting}{21}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Evaluation Procedures for Data Streams}{24}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Holdout}{25}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Interleaved Test-Then-Train or Prequential}{25}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Comparison}{26}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Testing Framework}{27}{section.2.3}
+\contentsline {section}{\numberline {2.4}Environments}{29}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Sensor Network}{30}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Handheld Computer}{30}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Server}{30}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}Data Sources}{31}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Random Tree Generator}{31}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Random RBF Generator}{32}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}LED Generator}{33}{subsection.2.5.3}
+\contentsline {subsection}{\numberline {2.5.4}Waveform Generator}{33}{subsection.2.5.4}
+\contentsline {subsection}{\numberline {2.5.5}Function Generator}{33}{subsection.2.5.5}
+\contentsline {section}{\numberline {2.6}Generation Speed and Data Size}{36}{section.2.6}
+\contentsline {section}{\numberline {2.7}Evolving Stream Experimental Setting}{38}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Concept Drift Framework}{38}{subsection.2.7.1}
+\contentsline {subsection}{\numberline {2.7.2}Datasets for concept drift}{40}{subsection.2.7.2}
+\contentsline {subsubsection}{Real-World Data}{41}{subsubsection*.8}
+\contentsline {part}{II\hspace {1em}Stationary Data Stream Learning}{43}{part.2}
+\contentsline {chapter}{\numberline {3}Hoeffding Trees}{45}{chapter.3}
+\contentsline {section}{\numberline {3.1}The Hoeffding Bound for Tree Induction}{46}{section.3.1}
+\contentsline {section}{\numberline {3.2}The Basic Algorithm}{48}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Split Confidence}{49}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Sufficient Statistics}{50}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Grace Period}{50}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Pre-pruning}{51}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Tie-breaking}{52}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Skewed Split Prevention}{52}{subsection.3.2.6}
+\contentsline {section}{\numberline {3.3}Memory Management}{53}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Poor Attribute Removal}{57}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.4}MOA Java Implementation Details}{58}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Fast Size Estimates}{59}{subsection.3.4.1}
+\contentsline {chapter}{\numberline {4}Numeric Attributes}{63}{chapter.4}
+\contentsline {section}{\numberline {4.1}Batch Setting Approaches}{64}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Equal Width}{65}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Equal Frequency}{65}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}k-means Clustering}{65}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Fayyad and Irani}{66}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}C4.5}{66}{subsection.4.1.5}
+\contentsline {section}{\numberline {4.2}Data Stream Approaches}{67}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}VFML Implementation}{68}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Exhaustive Binary Tree}{69}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Quantile Summaries}{70}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Gaussian Approximation}{71}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Numerical Interval Pruning}{75}{subsection.4.2.5}
+\contentsline {chapter}{\numberline {5}Prediction Strategies}{77}{chapter.5}
+\contentsline {section}{\numberline {5.1}Majority Class}{77}{section.5.1}
+\contentsline {section}{\numberline {5.2}Naive Bayes Leaves}{77}{section.5.2}
+\contentsline {section}{\numberline {5.3}Adaptive Hybrid}{80}{section.5.3}
+\contentsline {chapter}{\numberline {6}Hoeffding Tree Ensembles}{83}{chapter.6}
+\contentsline {section}{\numberline {6.1}Batch Setting}{87}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Bagging}{87}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Boosting}{87}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Option Trees}{93}{subsection.6.1.3}
+\contentsline {section}{\numberline {6.2}Data Stream Setting}{95}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Bagging}{95}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Boosting}{96}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Option Trees}{98}{subsection.6.2.3}
+\contentsline {section}{\numberline {6.3}Realistic Ensemble Sizes}{103}{section.6.3}
+\contentsline {part}{III\hspace {1em}Evolving Data Stream Learning}{105}{part.3}
+\contentsline {chapter}{\numberline {7}Evolving data streams}{107}{chapter.7}
+\contentsline {section}{\numberline {7.1}Algorithms for mining with change}{108}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}OLIN: Last}{108}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}CVFDT: Domingos}{108}{subsection.7.1.2}
+\contentsline {subsection}{\numberline {7.1.3}UFFT: Gama}{110}{subsection.7.1.3}
+\contentsline {section}{\numberline {7.2}A Methodology for Adaptive Stream Mining}{111}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Time Change Detectors and Predictors: A General Framework}{111}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Window Management Models}{113}{subsection.7.2.2}
+\contentsline {section}{\numberline {7.3}Optimal Change Detector and Predictor}{114}{section.7.3}
+\contentsline {chapter}{\numberline {8}Adaptive Sliding Windows}{117}{chapter.8}
+\contentsline {section}{\numberline {8.1}Introduction}{117}{section.8.1}
+\contentsline {section}{\numberline {8.2}Maintaining Updated Windows of Varying Length}{118}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Setting}{118}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}First algorithm: {\tt ADWIN0 }}{118}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}{\tt ADWIN0 }for Poisson processes}{122}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.4}Improving time and memory requirements}{123}{subsection.8.2.4}
+\contentsline {section}{\numberline {8.3}{\tt K-ADWIN} = {\tt ADWIN} + Kalman Filtering}{128}{section.8.3}
+\contentsline {chapter}{\numberline {9}Adaptive Hoeffding Trees}{131}{chapter.9}
+\contentsline {section}{\numberline {9.1}Introduction}{131}{section.9.1}
+\contentsline {section}{\numberline {9.2}Decision Trees on Sliding Windows}{132}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}HWT-{\tt ADWIN} : Hoeffding Window Tree using {\tt ADWIN} }{132}{subsection.9.2.1}
+\contentsline {subsubsection}{Example of performance Guarantee}{132}{subsubsection*.9}
+\contentsline {subsection}{\numberline {9.2.2}CVFDT}{135}{subsection.9.2.2}
+\contentsline {section}{\numberline {9.3}Hoeffding Adaptive Trees}{136}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}Example of performance Guarantee}{136}{subsection.9.3.1}
+\contentsline {subsection}{\numberline {9.3.2}Memory Complexity Analysis}{137}{subsection.9.3.2}
+\contentsline {chapter}{\numberline {10}Adaptive Ensemble Methods}{139}{chapter.10}
+\contentsline {section}{\numberline {10.1}New method of Bagging using trees of different size}{139}{section.10.1}
+\contentsline {section}{\numberline {10.2}New method of Bagging using {\tt ADWIN} }{142}{section.10.2}
+\contentsline {section}{\numberline {10.3}Adaptive Hoeffding Option Trees}{142}{section.10.3}
+\contentsline {section}{\numberline {10.4}Method performance}{143}{section.10.4}
+\contentsline {chapter}{\numberline {11}Restricted Hoeffding Trees Stacking}{145}{chapter.11}
+\contentsline {section}{\numberline {11.1}Combining Restricted Hoeffding Trees using Stacking}{146}{section.11.1}
+\contentsline {subsection}{\numberline {11.1.1}{\tt ADWIN}-based Change Detection}{148}{subsection.11.1.1}
+\contentsline {subsection}{\numberline {11.1.2}A Note on Computational Complexity}{148}{subsection.11.1.2}
+\contentsline {chapter}{\numberline {12}Leveraging Bagging}{149}{chapter.12}
+\contentsline {section}{\numberline {12.1}Bagging Literature}{149}{section.12.1}
+\contentsline {section}{\numberline {12.2}Leveraging Bagging}{151}{section.12.2}
+\contentsline {chapter}{\numberline {13}Twitter Stream Mining}{155}{chapter.13}
+\contentsline {section}{\numberline {13.1}Mining Twitter Data: Challenges}{156}{section.13.1}
+\contentsline {subsection}{\numberline {13.1.1}The Twitter Streaming API}{157}{subsection.13.1.1}
+\contentsline {section}{\numberline {13.2}Twitter Sentiment Analysis}{157}{section.13.2}
+\contentsline {section}{\numberline {13.3}Streaming Data Evaluation with Unbalanced Classes}{158}{section.13.3}
+\contentsline {section}{\numberline {13.4}Data Stream Mining Methods}{160}{section.13.4}
+\contentsline {subsubsection}{Multinomial Na\"{\i }ve Bayes}{160}{subsubsection*.10}
+\contentsline {subsubsection}{Stochastic Gradient Descent}{160}{subsubsection*.11}
+\contentsline {part}{Bibliography}{163}{section*.12}
